@@ -25,7 +25,7 @@
 
 **字体加粗测试**
 
-# Markdown 学习笔记 #
+## Markdown 学习笔记 ##
 1. Setext 形式是用底线的形式，利用 = （最高阶标题）和 - （第二阶标题），
 	Atx 形式在行首插入 1 到 6 个 # ，对应到标题 1 到 6 阶。	
 > **行首的井字符数量决定标题的阶数**
@@ -42,17 +42,18 @@
 
 ***
 
-# 创建新的larvel项目 #
+## 创建新的larvel项目 ##
 1. 使用命令：laravel new project_name
 2. 修改homestead的site map （在.homestead下的Homestead.yaml）
 3. 修改host里面的主机映射（在.homestead下的hosts）
 
 
 ***
-# vagrant操作事项：#
+## vagrant操作事项：##
 1. 连接到vagrant： vagrant ssh
 2. 查看状态： vagrant status
 3. 创建项目时需要重启环境：vagrant provision
+
 
 
 
