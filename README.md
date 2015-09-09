@@ -139,7 +139,7 @@
 	2.有时你可能希望暂存一些数据，并只在下次请求有效。你可以使用 Session::flash 方法来达成目的
 
 	### Eloquent ORM ###
-	_这部分以下的代码只是起演示作用，具体用法以官方文档为主_
+	> _这部分以下的代码只是起演示作用，具体用法以官方文档为主_
 	1. Relationships
 		1. 一对一
 			1. return $this->hasOne('App\Phone', 'foreign_key', 'local_key');
