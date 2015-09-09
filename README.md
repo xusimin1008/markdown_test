@@ -143,8 +143,8 @@
 	
 	1. Relationships
 		1. 一对一
-			> 1. return $this->hasOne('App\Phone', 'foreign_key', 'local_key');
-			> 2. return $this->belongsTo('App\User', 'local_key', 'parent_key');
+			1. > return $this->hasOne('App\Phone', 'foreign_key', 'local_key');
+			2. >return $this->belongsTo('App\User', 'local_key', 'parent_key');
 		2. 一对多
 			1. return $this->hasMany('App\Comment', 'foreign_key', 'local_key');
 			2. return $this->belongsTo('App\Post', 'local_key', 'parent_key');
