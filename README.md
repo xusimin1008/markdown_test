@@ -140,6 +140,7 @@
 
 	### Eloquent ORM ###
 	> _这部分以下的代码只是起演示作用，具体用法以官方文档为主_
+	
 	1. Relationships
 		1. 一对一
 			1. return $this->hasOne('App\Phone', 'foreign_key', 'local_key');
