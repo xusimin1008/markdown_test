@@ -193,6 +193,6 @@
 
 
 
-
+windows下python环境集成:http://continuum.io/downloads#all
 
 
