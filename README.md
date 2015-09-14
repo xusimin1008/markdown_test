@@ -188,6 +188,9 @@
 	5. 比方像redirect()，怎么知道里面有什么方法
 	6. 使用ORM，数据库的表必须包含updated_at，created_at两个字段？
 
+### 注意事项 ###
+1. 注意切换到*指定版本和环境*下, 比方在虚拟环境下我的virtualenv在/home/vagrant/python中
+
 
 
 
