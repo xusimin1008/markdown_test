@@ -7,4 +7,4 @@
 
 4. [flower REST API](http://nbviewer.ipython.org/github/mher/flower/blob/master/docs/api.ipynb)
 
-5. [Download Anaconda "Window python环境集成"](http://continuum.io/downloads#all)
+5. [Download Anaconda](http://continuum.io/downloads#all "Window python环境集成")
