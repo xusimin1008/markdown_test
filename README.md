@@ -189,7 +189,7 @@
 	6. 使用ORM，数据库的表必须包含updated_at，created_at两个字段？
 
 ### 注意事项 ###
-1. 注意切换到*指定版本和环境*下, 比方在虚拟环境下我的virtualenv在/home/vagrant/python中
+1. 注意切换到**指定版本和环境**下, 比方在虚拟环境下我的virtualenv在/home/vagrant/python中
 
 
 
