@@ -12,6 +12,7 @@
 ## 其他学习 ##
 1. [rsync](https://rsync.samba.org/)
 2. [xpath](http://www.w3school.com.cn/xpath/index.asp)
+3. [Python正则表达式指南](http://www.cnblogs.com/huxi/archive/2010/07/04/1771073.html)
 
 
 ## 文学学习 ##
