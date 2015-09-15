@@ -11,6 +11,6 @@ _目前刚到公司，主要任务是学习_
 ### 2015-09-15 ###
 1. Laravel下的数据库迁移和Test
 2. 阅读datartery的项目文档，并提了几个问题
-3. [Scrapy](https://scrapy-chs.readthedocs.org/zh_CN/0.24/)的安装和学习
+3. Scrapy[0.24中文版](https://scrapy-chs.readthedocs.org/zh_CN/0.24/)        [1.0英文版](http://doc.scrapy.org/en/1.0/index.html) (应该看英文版，中文只是参照)的安装和学习
 4. Xpath的学习
 5. 阅读了datartery的代码
