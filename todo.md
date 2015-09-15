@@ -11,7 +11,7 @@
 
 ## 其他学习 ##
 1. rsync
-2. xpath
+2. [xpath](http://www.w3school.com.cn/xpath/index.asp)
 
 
 ## 文学学习 ##
