@@ -10,7 +10,7 @@
 4. 文本分析
 
 ## 其他学习 ##
-1. rsync
+1. [rsync](https://rsync.samba.org/)
 2. [xpath](http://www.w3school.com.cn/xpath/index.asp)
 
 
