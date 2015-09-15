@@ -19,4 +19,7 @@
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
-2. 三国志 [汉川草庐](http://www.sidneyluo.net/a/a04/a04.htm) [中国哲学书电子化计划](http://ctext.org/text.pl?node=601875&if=gb&remap=gb) [国学观](http://www.guoxue.com/shibu/24shi/sangzz/sgzzml.htm)
+2. 三国志 
+  1. [汉川草庐](http://www.sidneyluo.net/a/a04/a04.htm) 
+  2. [中国哲学书电子化计划](http://ctext.org/text.pl?node=601875&if=gb&remap=gb)
+  3. [国学观](http://www.guoxue.com/shibu/24shi/sangzz/sgzzml.htm)
