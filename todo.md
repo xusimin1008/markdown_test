@@ -1,4 +1,4 @@
-# 这是对今后要做的一个列表，希望可以做到 ＃
+# 这是对今后要做的一个列表，希望可以做到 #
 
 ## 杂事 ##
 1. 确认下自己的档案归处（厦门 or 龙海(可能性较大)）
@@ -13,7 +13,7 @@
 1. [rsync](https://rsync.samba.org/)
 2. [xpath](http://www.w3school.com.cn/xpath/index.asp)
 3. [Python正则表达式指南](http://www.cnblogs.com/huxi/archive/2010/07/04/1771073.html)
-4. Python yield
+4. Python _yield_ 用法
 
 
 ## 文学学习 ##
