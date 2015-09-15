@@ -13,8 +13,8 @@
 1. [rsync](https://rsync.samba.org/)
 2. [xpath](http://www.w3school.com.cn/xpath/index.asp)
 3. [Python正则表达式指南](http://www.cnblogs.com/huxi/archive/2010/07/04/1771073.html)
-4. Python _yield_ 用法
-5. iPython使用
+4. Python [_yield_](http://pyzh.readthedocs.org/en/latest/the-python-yield-keyword-explained.html) 用法
+5. [iPython](http://z42.readthedocs.org/zh/latest/devtools/ipython.html)使用
 
 ## 文学学习 ##
 1. 中庸
