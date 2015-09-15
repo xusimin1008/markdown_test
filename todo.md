@@ -14,7 +14,7 @@
 2. [xpath](http://www.w3school.com.cn/xpath/index.asp)
 3. [Python正则表达式指南](http://www.cnblogs.com/huxi/archive/2010/07/04/1771073.html)
 4. Python _yield_ 用法
-
+5. iPython使用
 
 ## 文学学习 ##
 1. 中庸
