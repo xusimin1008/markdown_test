@@ -8,3 +8,8 @@
 4. [flower REST API](http://nbviewer.ipython.org/github/mher/flower/blob/master/docs/api.ipynb)
 
 5. [Download Anaconda](http://continuum.io/downloads#all "Window python环境集成")
+
+6. [Learn Python The Hard Way](http://learnpythonthehardway.org/book/) 
+
+7. [Scrapy入门教程](http://scrapy-chs.readthedocs.org/zh_CN/latest/intro/tutorial.html)
+
