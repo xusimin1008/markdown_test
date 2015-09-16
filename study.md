@@ -15,3 +15,6 @@
 
 8. [贝叶斯推断及其互联网应用(阮一峰)](http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_one.html) 
 
+9. [阮一峰博客](http://www.ruanyifeng.com/blog/)
+
+10. [廖雪峰博客](http://www.liaoxuefeng.com/)
