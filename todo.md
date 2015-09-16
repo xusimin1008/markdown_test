@@ -23,6 +23,7 @@
 8. [ECharts](http://echarts.baidu.com/doc/doc.html)
 9. [underscore](http://underscorejs.org/)
 10. [PHP GuzzleHttp](http://guzzle.readthedocs.org/en/latest/overview.html)
+11. [PHP教程](http://www.runoob.com/php/php-tutorial.html)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
