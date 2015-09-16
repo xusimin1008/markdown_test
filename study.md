@@ -13,3 +13,5 @@
 
 7. [Scrapy入门教程](http://scrapy-chs.readthedocs.org/zh_CN/latest/intro/tutorial.html)
 
+8. [贝叶斯推断及其互联网应用](http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_one.html) 
+
