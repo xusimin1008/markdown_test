@@ -26,6 +26,7 @@
 11. [PHP教程](http://www.runoob.com/php/php-tutorial.html)
 12. [flower REST API](http://nbviewer.ipython.org/github/mher/flower/blob/master/docs/api.ipynb)
 13. [Scrapy](http://doc.scrapy.org/en/1.0/index.html) 
+14. [SQLAlchemy](http://docs.sqlalchemy.org/en/rel_1_0/)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
