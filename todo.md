@@ -31,7 +31,7 @@
     1. [如何使用 JIEBA 結巴中文分詞程式](http://blog.fukuball.com/ru-he-shi-yong-jieba-jie-ba-zhong-wen-fen-ci-cheng-shi/)
 16. [Python collections](https://docs.python.org/2/library/collections.html#module-collections)
 17. [Word2Vec](https://github.com/danielfrg/word2vec)
-18. [gensim](https://radimrehurek.com/gensim/tutorial.html#)
+18. [Python gensim](https://radimrehurek.com/gensim/tutorial.html#)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
