@@ -32,6 +32,7 @@
 16. [Python collections](https://docs.python.org/2/library/collections.html#module-collections)
 17. [Word2Vec](https://github.com/danielfrg/word2vec)
 18. [Python gensim](https://radimrehurek.com/gensim/tutorial.html#)
+19. [Python pymining](https://github.com/bartdag/pymining)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
