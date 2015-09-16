@@ -20,6 +20,7 @@
 5. [iPython](http://z42.readthedocs.org/zh/latest/devtools/ipython.html)使用
 6. [Linux 命令大全](http://www.runoob.com/linux/linux-command-manual.html)
 7. [Pandas](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
+8. [ECharts](http://echarts.baidu.com/doc/doc.html)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
