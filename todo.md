@@ -28,6 +28,7 @@
 13. [Scrapy](http://doc.scrapy.org/en/1.0/index.html) 
 14. [SQLAlchemy](http://docs.sqlalchemy.org/en/rel_1_0/)
 15. [jieba分词](https://github.com/fxsjy/jieba)
+16. [Python collections](https://docs.python.org/2/library/collections.html#module-collections)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
