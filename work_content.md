@@ -9,8 +9,13 @@ _目前刚到公司，主要任务是学习_
    [竹子-博客](http://www.cnblogs.com/peida/) [阿小信大人](http://note.axiaoxin.com/index.html)
 
 ### 2015-09-15 ###
-1. Laravel下的数据库迁移和Test
+1. Laravel下的数据库迁移和Test （**未完全看完**）
 2. 阅读datartery的项目文档，并提了几个问题
 3. Scrapy[0.24中文版](https://scrapy-chs.readthedocs.org/zh_CN/0.24/)        [1.0英文版](http://doc.scrapy.org/en/1.0/index.html) (应该看英文版，中文只是参照)的安装和学习
 4. Xpath的学习
-5. 阅读了datartery的crawler代码
+5. 阅读datartery的crawler代码
+
+### 2015-09-16 ###
+1. 阅读datartery的web代码
+2. celery进一步使用
+3. scrapy进一步使用
