@@ -2,6 +2,7 @@
 
 ## 杂事 ##
 1. 确认下自己的档案归处（厦门 or 龙海(可能性较大)）
+2. 刷数据结构题目
 
 ## 专业学习 ##
 1. 操作系统
@@ -9,7 +10,7 @@
 3. Python学习
 4. 文本分析
 5. 数据结构
-6. 刷题
+
 
 ## 其他学习 ##
 1. [rsync](https://rsync.samba.org/)
@@ -18,6 +19,7 @@
 4. Python [_yield_](http://pyzh.readthedocs.org/en/latest/the-python-yield-keyword-explained.html) 用法
 5. [iPython](http://z42.readthedocs.org/zh/latest/devtools/ipython.html)使用
 6. [Linux 命令大全](http://www.runoob.com/linux/linux-command-manual.html)
+7. [Pandas](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
