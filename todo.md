@@ -28,6 +28,7 @@
 13. [Scrapy](http://doc.scrapy.org/en/1.0/index.html) 
 14. [SQLAlchemy](http://docs.sqlalchemy.org/en/rel_1_0/)
 15. [jieba分词](https://github.com/fxsjy/jieba)
+    1. [如何使用 JIEBA 結巴中文分詞程式](http://blog.fukuball.com/ru-he-shi-yong-jieba-jie-ba-zhong-wen-fen-ci-cheng-shi/)
 16. [Python collections](https://docs.python.org/2/library/collections.html#module-collections)
 17. [Word2Vec](https://github.com/danielfrg/word2vec)
 
