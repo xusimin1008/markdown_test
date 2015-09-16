@@ -29,6 +29,7 @@
 14. [SQLAlchemy](http://docs.sqlalchemy.org/en/rel_1_0/)
 15. [jieba分词](https://github.com/fxsjy/jieba)
 16. [Python collections](https://docs.python.org/2/library/collections.html#module-collections)
+17. [Word2Vec](https://github.com/danielfrg/word2vec)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
