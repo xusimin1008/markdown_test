@@ -18,3 +18,5 @@
 9. [阮一峰博客](http://www.ruanyifeng.com/blog/)
 
 10. [廖雪峰博客](http://www.liaoxuefeng.com/)
+
+11. [文翼博客](http://wenzhixin.net.cn/)
