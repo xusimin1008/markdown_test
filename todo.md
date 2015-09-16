@@ -8,6 +8,8 @@
 2. Linux使用
 3. Python学习
 4. 文本分析
+5. 数据结构
+6. 刷题
 
 ## 其他学习 ##
 1. [rsync](https://rsync.samba.org/)
