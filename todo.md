@@ -22,6 +22,7 @@
 7. [Pandas](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
 8. [ECharts](http://echarts.baidu.com/doc/doc.html)
 9. [underscore](http://underscorejs.org/)
+10. [PHP GuzzleHttp](http://guzzle.readthedocs.org/en/latest/overview.html)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
