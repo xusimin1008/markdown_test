@@ -11,6 +11,7 @@
 4. 文本分析
 5. 数据结构
 6. Python论坛
+7. 数据挖掘导论
 
 ## 其他学习 ##
 1. [rsync](https://rsync.samba.org/)
