@@ -14,3 +14,7 @@ python 对象序列化
 [编写高质量Python代码（3）——库](http://www.wengweitao.com/bian-xie-gao-zhi-liang-pythondai-ma-3-ku.html)
 
 [读写JSON数据](http://python3-cookbook.readthedocs.org/zh_CN/latest/c06/p02_read-write_json_data.html)
+
+http://simplejson.readthedocs.org/en/latest/
+
+http://docs.python-guide.org/en/latest/scenarios/json/
