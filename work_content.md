@@ -30,3 +30,4 @@ _目前刚到公司，主要任务是学习_
 ### 2015-09-18 ###
 1. python和json转换（python json库使用，如ujson，anyjson）
 2. github网站用法（Weki（目的：方便记录我们自己的项目知识））
+3. git stash && git flower(结合sourcetree)
