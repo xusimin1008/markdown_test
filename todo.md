@@ -38,7 +38,7 @@
 21. [Php String Functions](http://php.net/manual/en/ref.strings.php)
 22. [jquery dataTables](https://www.datatables.net/)
 23. [Git flow](https://github.com/nvie/gitflow)
-24. [Git flow and source](https://github.com/GSoft-SharePoint/Dynamite/wiki/Getting-started-with-SourceTree,-Git-and-git-flow)
+24. [Git flow and source](https://github.com/GSoft-SharePoint/Dynamite/wiki/Getting-started-with-SourceTree,-Git-and-git-flow)     [使用SourceTree和GitHub共同开发](http://www.cnblogs.com/duger/p/3496495.html)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
