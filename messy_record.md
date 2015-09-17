@@ -6,7 +6,7 @@
 
 3.在谷歌浏览器上安装: SSLspeedy2
 
-        (账号：datartisan，
+        账号：datartisan，
         密码：publicvpn， 
         L2TP秘钥：vpn.psk，
         普通L2TP/PPTP线路列表：
@@ -21,4 +21,4 @@
         v5.blockcn.net
         v6.blockcn.net
         v7.blockcn.net
-        v8.blockcn.net)
+        v8.blockcn.net
