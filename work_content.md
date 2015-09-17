@@ -16,7 +16,11 @@ _目前刚到公司，主要任务是学习_
 5. 阅读datartery的crawler代码
 
 ### 2015-09-16 ###
-1. 阅读datartery的web和annlysis代码
+1. 阅读datartery的web和annlysis (_前半部分_)代码
 2. python collections库的学习
 3. jieba分词的学习
 
+### 2015-09-17 ###
+1. 阅读datartery的annlysis (_后半部分_)代码
+2. pandas的学习
+3. sqlalchemy的学习
