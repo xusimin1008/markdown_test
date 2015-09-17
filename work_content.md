@@ -26,3 +26,6 @@ _目前刚到公司，主要任务是学习_
 3. sqlalchemy的学习
 4. [laravel debugbar](https://github.com/barryvdh/laravel-debugbar)[_(文档)_](http://phpdebugbar.com/docs/)插件学习
 5. 关联规则学习(pymining)
+
+### 2015-09-18 ###
+1. python和json转换（python json库使用，如ujson，anyjson）
