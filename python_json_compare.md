@@ -18,3 +18,5 @@ python 对象序列化
 http://simplejson.readthedocs.org/en/latest/
 
 http://docs.python-guide.org/en/latest/scenarios/json/
+
+[anyjson](https://pypi.python.org/pypi/anyjson/0.3.3)
