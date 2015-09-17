@@ -35,6 +35,7 @@
 18. [Python gensim](https://radimrehurek.com/gensim/tutorial.html#)
 19. [Python pymining](https://github.com/bartdag/pymining)
 20. [关联规则](http://baike.baidu.com/view/1076817.htm)
+21. [Php String Functions](http://php.net/manual/en/ref.strings.php)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
