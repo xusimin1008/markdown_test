@@ -32,7 +32,7 @@
     1. [如何使用 JIEBA 結巴中文分詞程式](http://blog.fukuball.com/ru-he-shi-yong-jieba-jie-ba-zhong-wen-fen-ci-cheng-shi/)
 16. [Python collections](https://docs.python.org/2/library/collections.html#module-collections)
 17. [Word2Vec](https://github.com/danielfrg/word2vec)
-18. [Python gensim](https://radimrehurek.com/gensim/tutorial.html#)
+18. [Python gensim](https://github.com/piskvorky/gensim) [_文档_](https://radimrehurek.com/gensim/tutorial.html#) 
 19. [Python pymining](https://github.com/bartdag/pymining)
 20. [关联规则](http://baike.baidu.com/view/1076817.htm)
 21. [Php String Functions](http://php.net/manual/en/ref.strings.php)
