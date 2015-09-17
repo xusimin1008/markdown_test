@@ -5,6 +5,7 @@
 2. php格式化数字函数: [number_format()](http://php.net/manual/en/function.number-format.php)
 
 3.在谷歌浏览器上安装: SSLspeedy2
+
         (账号：datartisan，
         密码：publicvpn， 
         L2TP秘钥：vpn.psk，
