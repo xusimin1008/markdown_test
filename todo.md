@@ -10,7 +10,7 @@
 3. Python学习
 4. 文本分析
 5. 数据结构
-
+6. Python论坛
 
 ## 其他学习 ##
 1. [rsync](https://rsync.samba.org/)
@@ -40,3 +40,4 @@
   1. [汉川草庐](http://www.sidneyluo.net/a/a04/a04.htm) 
   2. [中国哲学书电子化计划](http://ctext.org/text.pl?node=601875&if=gb&remap=gb)
   3. [国学观](http://www.guoxue.com/shibu/24shi/sangzz/sgzzml.htm)
+3. 乐谱
