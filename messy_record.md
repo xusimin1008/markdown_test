@@ -25,3 +25,4 @@
 
 [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/)
 [初次使用GitHub,作个入门记录Wiki](http://www.qiushurong.cn/2014/05/14/github-wiki/)
+https://help.github.com/articles/creating-pages-with-the-automatic-generator/
