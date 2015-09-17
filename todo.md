@@ -37,6 +37,7 @@
 20. [关联规则](http://baike.baidu.com/view/1076817.htm)
 21. [Php String Functions](http://php.net/manual/en/ref.strings.php)
 22. [jquery dataTables](https://www.datatables.net/)
+23. [Git flower](https://github.com/nvie/gitflow)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
