@@ -21,11 +21,11 @@ _目前刚到公司，主要任务是学习_
 3. jieba分词的学习
 
 ### 2015-09-17 ###
-1. 阅读datartery的annlysis (_后半部分_)代码
-2. pandas的学习
-3. sqlalchemy的学习
-4. [laravel debugbar](https://github.com/barryvdh/laravel-debugbar)[_(文档)_](http://phpdebugbar.com/docs/)插件学习
-5. 关联规则学习(pymining)
+1. [laravel debugbar](https://github.com/barryvdh/laravel-debugbar)[_(文档)_](http://phpdebugbar.com/docs/)插件学习
+2. 关联规则学习(pymining)
+3. 阅读datartery的annlysis (_后半部分_)代码
+
+
 
 ### 2015-09-18 ###
 1. python和json转换（python json库使用，如ujson，anyjson）
