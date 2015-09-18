@@ -11,7 +11,7 @@
 
 6. [Learn Python The Hard Way](http://learnpythonthehardway.org/book/) 
 
-7. [Scrapy入门教程](http://scrapy-chs.readthedocs.org/zh_CN/latest/intro/tutorial.html)
+7. [Scrapy入门教程](http://scrapy-chs.readthedocs.org/zh_CN/latest/intro/tutorial.html) / [Scrapy Home Wiki](https://github.com/scrapy/scrapy/wiki)
 
 8. [贝叶斯推断及其互联网应用(阮一峰)](http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_one.html) 
 
