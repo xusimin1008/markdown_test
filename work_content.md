@@ -32,3 +32,8 @@ _目前刚到公司，主要任务是学习_
 2. github网站用法（Weki（目的：方便记录我们自己的项目知识））
 3. git stash && git flower(结合sourcetree)
 4. 整理笔记
+5. 阅读roclaws的文档和代码
+
+### 2015-09-21 ###
+1. 开始roclaws项目（抓取用户指定页面后保存，用到Spider，CrolSipder，）
+2. 写相关项目测试（从最简单的路由测试起）
