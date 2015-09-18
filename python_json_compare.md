@@ -8,18 +8,18 @@
 
 一般的Python序列化，pickle只能用于Python，并且可能不同版本的Python彼此都不兼容,
 
-我们要在不同的编程语言之间传递对象，就必须把对象序列化为标准格式，比如XML，但更好的方法是序列化为JSON，它比XML更快，
+我们要在不同的编程语言之间传递对象，就必须把对象序列化为标准格式，比如XML，但更好的方法是序列化为JSON，它比XML更快， 
 
 所以我们选择Json。
 
 ## Python数据类型与Json数据类型的对应 ##
-        JSON类型        Python类型
-        {}              dict
-        []              list
-        "string"        'str'或u'unicode'
-        1234.56         int或float
-        true/false      True/False
-        null            None
+        JSON类型	     Python类型
+        {}           dict
+        []	         list
+        "string"	 'str'或u'unicode'
+        1234.56	     int或float
+        true/false	 True/False
+        null	     None
 
 
 ## 序列化操作 ##
@@ -62,6 +62,12 @@ cjson是用C语言实现，
 yajl是Cython版本的JSON实现。 
 
 simplejson与标准库JSON的区别不大，但更新可能更快。
+
+[anyjson](https://bitbucket.org/runeh/anyjson):
+    Anyjson loads whichever is the fastest JSON module installed and provides a uniform API regardless of which JSON implementation is used.
+安装命令：sudo apt-get install python-anyjson
+看了一下源码，其实它就是整合了yajl，jsonlib2，jsonlib， simplejson， json， django.utils.simplejson，cjson，
+然后把所有的序列化和反序列化接口统一起来。
 
 
 python 对象序列化
