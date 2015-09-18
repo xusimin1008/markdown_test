@@ -59,9 +59,11 @@
 
 cjson是用C语言实现，
 
-yajl是Cython版本的JSON实现。 
+[yajl](https://github.com/lloyd/yajl)是Cython版本的JSON实现。 
 
-simplejson与标准库JSON的区别不大，但更新可能更快。
+[simplejson](https://github.com/simplejson/simplejson)与标准库JSON的区别不大，但更新可能更快([查看文档](http://simplejson.readthedocs.org/en/latest/))。
+
+    It is pure Python code with no dependencies, but includes an optional C extension for a serious speed boost
 
 #### [anyjson](https://bitbucket.org/runeh/anyjson): ####
 
@@ -69,9 +71,9 @@ simplejson与标准库JSON的区别不大，但更新可能更快。
 
 安装命令：**sudo apt-get install python-anyjson**
 
-看了一下源码，其实它就是整合了`yajl`，`jsonlib2`，`jsonlib`， `simplejson`， `json`， `django.utils.simplejson`，`cjson`，
+看了一下源码，其实它就是整合了
+`yajl`，`jsonlib2`，`jsonlib`， `simplejson`， `json`， `django.utils.simplejson`，`cjson`，
 然后把所有的序列化和反序列化接口统一起来。
-
 
 python 对象序列化
 
