@@ -1,5 +1,5 @@
 # Python Json #
-## 为什么选择json ##
+## 为什么选择Json ##
 我们把变量从内存中变成可存储或传输的过程称之为序列化。
 序列化之后，就可以把序列化后的内容写入磁盘，或者通过网络传输到别的机器上，
 反过来，把变量内容从序列化的对象重新读到内存里称之为反序列化。
@@ -17,10 +17,11 @@
         true/false	True/False
         null	      None
 
-## 序列化操作 ##  
 
-json.dumps()  序列化
-json.loads()  反序列化，_得到的所有字符串对象默认都是unicode而不是str_。
+## 序列化操作 ## 
+
+`json.dumps()` 序列化
+`json.loads()` 反序列化，_得到的所有字符串对象默认都是unicode而不是str_。
 
 正常情况下，类的序列化是会报错的，
 那么如何把类序列化？
@@ -41,10 +42,13 @@ json.loads()  反序列化，_得到的所有字符串对象默认都是unicode�
             }
 
         print(json.dumps(s, default=student2dict))
+
 如何反序列化？
 在类里面写一个转化函数，之后传入loads()里，
+
         def dict2student(d):
             return Student(d['name'], d['age'], d['score'])
+
 
 ## 几个不同json库的比较 ##            
 
