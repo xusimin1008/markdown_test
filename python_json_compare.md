@@ -63,10 +63,13 @@ yajl是Cython版本的JSON实现。
 
 simplejson与标准库JSON的区别不大，但更新可能更快。
 
-[anyjson](https://bitbucket.org/runeh/anyjson):
+#### [anyjson](https://bitbucket.org/runeh/anyjson): ####
+
     Anyjson loads whichever is the fastest JSON module installed and provides a uniform API regardless of which JSON implementation is used.
-安装命令：sudo apt-get install python-anyjson
-看了一下源码，其实它就是整合了yajl，jsonlib2，jsonlib， simplejson， json， django.utils.simplejson，cjson，
+
+安装命令：**sudo apt-get install python-anyjson**
+
+看了一下源码，其实它就是整合了`yajl`，`jsonlib2`，`jsonlib`， `simplejson`， `json`， `django.utils.simplejson`，`cjson`，
 然后把所有的序列化和反序列化接口统一起来。
 
 
