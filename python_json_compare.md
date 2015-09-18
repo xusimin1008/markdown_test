@@ -9,13 +9,13 @@
 所以我们选择Json。
 
 ## Python数据类型与Json数据类型的对应 ##
-        JSON类型	     Python类型
+        JSON类型	 Python类型
         {}	         dict
         []	         list
         "string"	 'str'或u'unicode'
-        1234.56	     int或float
+        1234.56	         int或float
         true/false	 True/False
-        null	     None
+        null	         None
 
 
 ## 序列化操作 ##
