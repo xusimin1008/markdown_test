@@ -18,7 +18,7 @@
         null	      None
 
 
-## 序列化操作 ## 
+## 序列化操作 ##
 
 `json.dumps()` 序列化
 `json.loads()` 反序列化，_得到的所有字符串对象默认都是unicode而不是str_。
@@ -51,10 +51,12 @@
             return Student(d['name'], d['age'], d['score'])
 
 
-## 几个不同json库的比较##            
+## 几个不同json库的比较 ##          
 
 cjson是用C语言实现，
+
 yajl是Cython版本的JSON实现。 
+
 simplejson与标准库JSON的区别不大，但更新可能更快。
 
 
