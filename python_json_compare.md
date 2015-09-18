@@ -34,6 +34,7 @@
                 self.score = score
 
 在类里面写一个转化函数，之后传入dumps()里，
+
         def student2dict(std):
             return {
                 'name': std.name,
@@ -50,9 +51,11 @@
             return Student(d['name'], d['age'], d['score'])
 
 
-## 几个不同json库的比较 ##            
+## 几个不同json库的比较##            
 
-cjson是用C语言实现，yajl是Cython版本的JSON实现。 simplejson与标准库JSON的区别不大，但更新可能更快。
+cjson是用C语言实现，
+yajl是Cython版本的JSON实现。 
+simplejson与标准库JSON的区别不大，但更新可能更快。
 
 
 python 对象序列化
