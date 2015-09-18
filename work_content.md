@@ -31,6 +31,7 @@ _目前刚到公司，主要任务是学习_
 1. python和json转换（python json库使用，如ujson，anyjson）
 2. 整理笔记
 3. 阅读roclaws的文档和代码
+4. 继续学习scrapy
 
 ### 2015-09-21 ###
 1. 开始roclaws项目（抓取用户指定页面后保存，用到Spider，CrolSipder，）
