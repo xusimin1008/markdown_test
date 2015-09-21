@@ -46,7 +46,9 @@ _目前刚到公司，主要任务是学习_
    5. [pyspider 爬虫教程（三）：使用 PhantomJS 渲染带 JS 的页面](http://segmentfault.com/a/1190000002477913)
    6. [使用Scrapy抓取数据](http://segmentfault.com/a/1190000000583419)
    7. follow_pattern，save_pattern都是一个数组
-   8. 
+4. 内容：
+   1. 创建一个seed用户
+   2. 用户登录，注册
 
 ## TODO ##
 1. github网站用法（Weki（目的：方便记录我们自己的项目知识））
