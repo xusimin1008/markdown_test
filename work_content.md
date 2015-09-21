@@ -37,19 +37,14 @@ _目前刚到公司，主要任务是学习_
 
 ### 2015-09-21 ###
 1. 使用 lv 5.1.11 重建 web 目录结构（重构web项目，因为lv版本更新，抓取用户指定页面后保存，用到Spider，CrolSipder，）
-2. 写相关项目测试（从最简单的路由测试起）
 3. 问题：
-   1. 抓取内容如何展现(数据本身也是一个页面)
-   2. 用户在不懂得规则的情况下如何使用
+  
    3. user -> project -> spider -> job -> data
    4. [phantomjs](http://phantomjs.org/quick-start.html)
    5. [pyspider 爬虫教程（三）：使用 PhantomJS 渲染带 JS 的页面](http://segmentfault.com/a/1190000002477913)
    6. [使用Scrapy抓取数据](http://segmentfault.com/a/1190000000583419)
    7. follow_pattern，save_pattern都是一个数组
-4. 内容：
-   1. 创建一个seed用户
-   2. 用户登录，注册
-   3. debugger 插件
+
 
 ## TODO ##
 1. github网站用法（Weki（目的：方便记录我们自己的项目知识））
