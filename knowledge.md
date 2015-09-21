@@ -15,11 +15,15 @@
 
 ### Git使用 ###
 在git上fork一份代码库（里面包含已存在的分支）
+
 git clone url （克隆远端代码库的master分支）
+
 git checkout -b develop origin/master
 
 git add －A caterory/ （添加指定目录的全部文件，同时删除已删除的文件）
+
 git commit
+
 到github上进行pull request(注意分支的对应，main的develop应该对应origin的develop)
 
 ### 安装gensim ###
