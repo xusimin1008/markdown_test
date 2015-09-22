@@ -37,13 +37,15 @@ _目前刚到公司，主要任务是学习_
 
 ### 2015-09-21 ###
 1. 使用 lv 5.1.11 重建 web 目录结构（重构web项目，因为lv版本更新，抓取用户指定页面后保存，用到Spider，CrolSipder，）
-3. 问题：
-  
-   3. user -> project -> spider -> job -> data
+3. 问题
    4. [phantomjs](http://phantomjs.org/quick-start.html)
    5. [pyspider 爬虫教程（三）：使用 PhantomJS 渲染带 JS 的页面](http://segmentfault.com/a/1190000002477913)
    6. [使用Scrapy抓取数据](http://segmentfault.com/a/1190000000583419)
    7. follow_pattern，save_pattern都是一个数组
+
+### 2015-09-22 ###
+1. 梳理crawler代码
+2. 提出调整roclaws的Model的建议
 
 
 ## TODO ##
