@@ -56,4 +56,4 @@ _目前刚到公司，主要任务是学习_
 ## TODO ##
 1. github网站用法（Weki（目的：方便记录我们自己的项目知识））
 2. git stash && git flower(结合sourcetree)
-3. 学习之后要用到的东西，比如任务定时和异步抓取之类的
+3. 学习之后要用到的东西，比如任务定时([Cron](https://zh.wikipedia.org/wiki/Cron))和异步抓取之类的
