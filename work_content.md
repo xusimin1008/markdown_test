@@ -54,6 +54,7 @@ _目前刚到公司，主要任务是学习_
 ### 2015-09-24 ###
 1. 学习和写Test（先用在teamwork项目上）
 2. 使用github Wiki（同步teamwork）
+3. 阅读teamwork代码
 
 
 ## TODO ##
