@@ -43,6 +43,7 @@
 26. [PHP parsedown](https://github.com/erusev/parsedown)
 27. [PHP git-wrapper](https://github.com/cpliakas/git-wrapper)
 28. [selenium](https://github.com/SeleniumHQ/selenium/)
+29. [httpbin](http://httpbin.org/)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
