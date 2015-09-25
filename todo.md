@@ -42,6 +42,7 @@
 25. [phpunit](https://phpunit.de/getting-started.html) [中文](https://phpunit.de/manual/current/zh_cn/incomplete-and-skipped-tests.html#incomplete-and-skipped-tests.incomplete-tests)
 26. [PHP parsedown](https://github.com/erusev/parsedown)
 27. [PHP git-wrapper](https://github.com/cpliakas/git-wrapper)
+28. [selenium](https://github.com/SeleniumHQ/selenium/)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
