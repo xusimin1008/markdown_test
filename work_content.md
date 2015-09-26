@@ -62,6 +62,9 @@ _目前刚到公司，主要任务是学习_
 ### 2015-09-26 ###
 1. 抓取的代理机制
 2. 熟悉Danel项目
+3. Elasticsearch安装
+
+1. Elasticsearch和PostgreSQL学习
 
 ## TODO ##
 1. github网站用法（Weki（目的：方便记录我们自己的项目知识））
