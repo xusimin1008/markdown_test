@@ -26,3 +26,5 @@
 13. [wwt's blog](http://www.wengweitao.com/)
 
 14. [php101](http://www.php101.cn/)
+
+15. [curl](http://www.ruanyifeng.com/blog/2011/09/curl.html)
