@@ -47,6 +47,7 @@
 30. [Python mixpanel-python](https://github.com/mixpanel/mixpanel-python)
 31. [Proxy-list](http://ipaddress.com/proxy-list/)
 32. [VPN website](https://www.hidemyass.com/)
+33. [Python PEP8](https://www.python.org/dev/peps/pep-0008/)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
