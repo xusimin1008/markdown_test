@@ -64,6 +64,7 @@ _目前刚到公司，主要任务是学习_
 2. 熟悉Danel项目
 3. Elasticsearch安装
 
+### 2015-09-27 ###
 1. Elasticsearch和PostgreSQL学习
 
 ## TODO ##
