@@ -51,6 +51,7 @@
 34. [Hadoop](http://hadoop.apache.org/docs/r1.0.4/cn/quickstart.html)
 35. [神策（类似Danel）](http://sensorsdata.cn/index.html)
 36. [简书](http://www.jianshu.com/)
+37. [机器学习](https://github.com/ty4z2008/Qix/blob/master/dl.md)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
