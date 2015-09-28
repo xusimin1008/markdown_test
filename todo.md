@@ -48,6 +48,8 @@
 31. [Proxy-list](http://ipaddress.com/proxy-list/)
 32. [VPN website](https://www.hidemyass.com/)
 33. [Python PEP8](https://www.python.org/dev/peps/pep-0008/)
+34. [Hadoop](http://hadoop.apache.org/docs/r1.0.4/cn/quickstart.html)
+35. [神策（类似Danel）](http://sensorsdata.cn/index.html)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
