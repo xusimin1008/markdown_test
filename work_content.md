@@ -68,6 +68,10 @@ _目前刚到公司，主要任务是学习_
 1. Elasticsearch和PostgreSQL学习
 2. 调整了昨天的抓取代理机制的代码，使之变得可用
 
+### 2015-09-28 ###
+1. 学习Hadoop
+2. 看danel的同类产品，比如神策，mixpanel
+
 ## TODO ##
 1. github网站用法（Weki（目的：方便记录我们自己的项目知识））
 2. git stash && git flower(结合sourcetree)
