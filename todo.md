@@ -48,7 +48,7 @@
 31. [Proxy-list](http://ipaddress.com/proxy-list/)
 32. [VPN website](https://www.hidemyass.com/)
 33. [Python PEP8](https://www.python.org/dev/peps/pep-0008/)
-34. [Hadoop](http://hadoop.apache.org/docs/r1.0.4/cn/quickstart.html)
+34. [Hadoop](http://hadoop.apache.org/docs/r2.6.1/index.html)
 35. [神策（类似Danel）](http://sensorsdata.cn/index.html)
 36. [简书](http://www.jianshu.com/)
 37. [机器学习](https://github.com/ty4z2008/Qix/blob/master/dl.md)
