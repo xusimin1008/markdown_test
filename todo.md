@@ -52,6 +52,7 @@
 35. [神策（类似Danel）](http://sensorsdata.cn/index.html)
 36. [简书](http://www.jianshu.com/)
 37. [机器学习](https://github.com/ty4z2008/Qix/blob/master/dl.md)
+38. [Python spark](http://spark.apache.org/docs/latest/api/python/index.html)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
