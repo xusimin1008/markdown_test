@@ -54,6 +54,7 @@
 37. [机器学习](https://github.com/ty4z2008/Qix/blob/master/dl.md)
 38. [Python spark](http://spark.apache.org/docs/latest/api/python/index.html)
 39. [Python mid study](http://spark.apache.org/docs/latest/api/python/index.html)
+40. [摩客（网站原型）](https://www.mockplus.cn/)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
