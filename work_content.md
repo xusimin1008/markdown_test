@@ -6,9 +6,14 @@ _目前刚到公司，主要任务是学习_
 2. git stash && git flower(结合sourcetree)
 3. 学习之后要用到的东西，比如任务定时([Cron](https://zh.wikipedia.org/wiki/Cron))和异步抓取之类的
 
+### 2010-10-10 ###
+1. 熟悉美特好项目
+2. 继续改善roclaws项目
+
 ### 2015-10-09 ###
 1. 完成与舆情estate项目的整合
-2. 熟悉美特好项目
+2. 根据roclaws网页原型修改代码
+3. 完成roclaws的大部分逻辑代码
 
 ### 2015-10-08 ###
 1. 完善roclaws项目的基础部分
