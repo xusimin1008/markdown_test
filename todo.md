@@ -54,7 +54,9 @@
 37. [机器学习](https://github.com/ty4z2008/Qix/blob/master/dl.md)
 38. [Python spark](http://spark.apache.org/docs/latest/api/python/index.html)
 39. [Python mid study](http://spark.apache.org/docs/latest/api/python/index.html)
-40. [摩客（网站原型）](https://www.mockplus.cn/)
+40. [摩客（网站原型）](https://www.mockplus.cn/)]
+41. [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
+42. [服务器安装部署](https://github.com/huanghua581/laravel-getting-started/wiki/Ubuntu-14.04-%E4%B8%8A%E4%BD%BF%E7%94%A8-Nginx-%E9%83%A8%E7%BD%B2-Laravel)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
