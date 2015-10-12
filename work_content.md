@@ -6,6 +6,11 @@ _目前刚到公司，主要任务是学习_
 2. git stash && git flower(结合sourcetree)
 3. 学习之后要用到的东西，比如任务定时([Cron](https://zh.wikipedia.org/wiki/Cron))和异步抓取之类的
 1. 熟悉美特好项目
+2. schedule_time的crontab的正则表达式
+
+### 2010-10-12 ###
+1. 清理roclaws项目没有用的部分
+2. 
 
 ### 2010-10-10 ###
 1. 定时任务的编写
