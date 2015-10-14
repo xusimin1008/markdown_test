@@ -6,10 +6,16 @@ _目前刚到公司，主要任务是学习_
 2. git stash && git flower(结合sourcetree)
 3. 学习之后要用到的东西，比如任务定时([Cron](https://zh.wikipedia.org/wiki/Cron))和异步抓取之类的
 1. 熟悉美特好项目
-2. schedule_time的crontab的正则表达式
-### 2-10-10-13 ###
+
+### 2015-10-14 ###
+1. 看美特好项目文档和代码
+2. 继续学习ES插件
+3. 继续改进roclaws项目（持续过程）
+
+### 2015-10-13 ###
 1. 使用[jqgrid](http://www.trirand.com/blog)插件
-2. 改进roclaws
+2. 改进roclaws项目
+3. 看部分美特好项目的文档
 
 ### 2010-10-12 ###
 1. 清理roclaws项目没有用的部分
