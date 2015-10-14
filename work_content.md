@@ -11,6 +11,7 @@ _目前刚到公司，主要任务是学习_
 1. 看美特好项目文档和代码
 2. 继续学习ES插件
 3. 继续改进roclaws项目（持续过程）
+4. 学习[权限设计entrust](https://github.com/Zizaco/entrust)
 
 ### 2015-10-13 ###
 1. 使用[jqgrid](http://www.trirand.com/blog)插件
