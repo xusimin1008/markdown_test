@@ -13,7 +13,7 @@
 5. 数据结构
 6. Python论坛
 7. 数据挖掘导论
-8. Python Flaskz学习
+8. Python Flask学习
 
 ## 其他学习 ##
 1. [rsync](https://rsync.samba.org/)
@@ -60,6 +60,7 @@
 41. [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php) http://www.jianshu.com/p/307c8d0fbf22
 42. [服务器安装部署](https://github.com/huanghua581/laravel-getting-started/wiki/Ubuntu-14.04-%E4%B8%8A%E4%BD%BF%E7%94%A8-Nginx-%E9%83%A8%E7%BD%B2-Laravel)
 43. [Laravel 权限设计 -- Zizaco/entrust](https://github.com/Zizaco/entrust)
+44. [谷歌插件](http://www.zhihu.com/question/19594682)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
