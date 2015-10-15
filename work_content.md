@@ -11,12 +11,14 @@ _目前刚到公司，主要任务是学习_
 1. 学习比较laravel的三种验证方式的不同(Input, 封装在Model里，FormRequest，还有 $this->throwValidationException(
                 $request, $validator
             );)
+2. 修改美特好项目的权限编辑页面 
+3. 美特好项目代码
+4. datartisan的analysis部分
 
 ### 2015-10-14 ###
 1. 看美特好项目文档和代码
 2. 继续学习ES插件
-3. 继续改进roclaws项目（持续过程）
-4. 学习[权限设计entrust](https://github.com/Zizaco/entrust)
+3. 学习[权限设计entrust](https://github.com/Zizaco/entrust)
 
 ### 2015-10-13 ###
 1. 使用[jqgrid](http://www.trirand.com/blog)插件
