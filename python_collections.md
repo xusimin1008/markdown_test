@@ -39,7 +39,7 @@ counter = Counter([iterable-or-mapping])
 
 **most_common([n])**
 
-*If n is omitted or None, most_common() returns all elements in the counter. *
+*If n is omitted or None, most_common() returns all elements in the counter.*
 ```
 >>> Counter('abracadabra').most_common(3)
 [('a', 5), ('r', 2), ('b', 2)]
@@ -55,7 +55,8 @@ counter = Counter([iterable-or-mapping])
 Counter({'a': 3, 'b': 0, 'c': -3, 'd': -6})
 ```
 
-** update([iterable-or-mapping]) **
+**update([iterable-or-mapping])**
+
 Like dict.update() but adds counts instead of replacing them. 
 
 _相当于add方法_
