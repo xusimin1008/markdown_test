@@ -8,9 +8,9 @@ _目前刚到公司，主要任务是学习_
 1. 熟悉美特好项目
 
 ### 2015-10-16 ###
-1. 美特好项目代码
-2. datartisan的analysis部分
-3. datartisan的测试代码
+1. 继续修改美特好项目的权限编辑页面（郭鹏帮忙解决了线上测试不通过的问题，php版本不同）
+2. 看datartisan的analysis部分，思考项目代码组织
+3. 看如何抓取京东评论(直接通过ajax获取)
 
 ### 2015-10-15 ##
 1. 学习比较laravel的三种验证方式的不同(Input, 封装在Model里，FormRequest，还有 $this->throwValidationException(
