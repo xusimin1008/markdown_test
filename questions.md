@@ -11,6 +11,7 @@
 4. 关于如何组织analysis目录
   我觉得可以把celery的配置写成单独文件
   可以把每个celery的task或某一类的task写成单独文件，放到tasks的包里面
+
   ```
   - analysis
     - celery.py
@@ -23,6 +24,7 @@
     - config.py
     - requirement.txt
   ```
+  
 这样会使各个task比较独立，方便查看和修改。
 尽量把文件分包分类，避免平铺带来的不便。
 对于项目的组织，以前也只是尽量遵循规范，自己本身也没考虑太多，以上仅是个人想法。
