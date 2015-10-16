@@ -2,9 +2,11 @@
 
 ### [Counter](http://code.activestate.com/recipes/576611/) ###
 A Counter is a dict subclass for counting hashable objects. 
+
 It is an unordered collection where elements are stored as dictionary keys and their counts are stored as dictionary values. 
 
 初始化：
+
 counter = Counter([iterable-or-mapping]) 
 
 ```
@@ -23,7 +25,7 @@ counter = Counter([iterable-or-mapping])
 
 #### 主要方法：###
 
-elements()
+_elements()_
 
 *If an element’s count is less than one, elements() will ignore it.*
 ```
@@ -32,7 +34,7 @@ elements()
 ['a', 'a', 'a', 'a', 'b', 'b']
 ```
 
-most_common([n])
+_most_common([n])_
 
 *If n is omitted or None, most_common() returns all elements in the counter. *
 ```
@@ -40,7 +42,7 @@ most_common([n])
 [('a', 5), ('r', 2), ('b', 2)]
 ```
 
-subtract([iterable-or-mapping])
+_subtract([iterable-or-mapping])_
 
 ```
 >>> c = Counter(a=4, b=2, c=0, d=-2)
@@ -51,9 +53,11 @@ Counter({'a': 3, 'b': 0, 'c': -3, 'd': -6})
 ```
 
 Several mathematical operations are provided for combining Counter objects to produce multisets 
+
 (counters that have counts greater than zero). 
 ```
 c += Counter()                  # remove zero and negative counts
+
 >>> c = Counter(a=3, b=1)
 >>> d = Counter(a=1, b=2)
 >>> c + d                       # add two counters together:  c[x] + d[x]
