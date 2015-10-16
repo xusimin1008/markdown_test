@@ -42,7 +42,7 @@ _most_common([n])_
 [('a', 5), ('r', 2), ('b', 2)]
 ```
 
-_subtract([iterable-or-mapping])_
+**subtract([iterable-or-mapping])**
 
 ```
 >>> c = Counter(a=4, b=2, c=0, d=-2)
@@ -70,4 +70,5 @@ Counter({'a': 1, 'b': 1})
 Counter({'a': 3, 'b': 2})
 ```
 
+***
 
