@@ -1,6 +1,7 @@
 # [collections](https://docs.python.org/2/library/collections.html) #
 
 ### [Counter](http://code.activestate.com/recipes/576611/) ###
+
 A Counter is a dict subclass for counting hashable objects. 
 
 It is an unordered collection where elements are stored as dictionary keys and their counts are stored as dictionary values. 
@@ -25,7 +26,7 @@ counter = Counter([iterable-or-mapping])
 
 #### 主要方法：###
 
-_elements()_
+**elements()**
 
 *If an element’s count is less than one, elements() will ignore it.*
 ```
@@ -34,7 +35,7 @@ _elements()_
 ['a', 'a', 'a', 'a', 'b', 'b']
 ```
 
-_most_common([n])_
+**most_common([n])**
 
 *If n is omitted or None, most_common() returns all elements in the counter. *
 ```
