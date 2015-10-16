@@ -7,13 +7,17 @@ _目前刚到公司，主要任务是学习_
 3. 学习之后要用到的东西，比如任务定时([Cron](https://zh.wikipedia.org/wiki/Cron))和异步抓取之类的
 1. 熟悉美特好项目
 
+### 2015-10-16 ###
+1. 美特好项目代码
+2. datartisan的analysis部分
+3. datartisan的测试代码
+
 ### 2015-10-15 ##
 1. 学习比较laravel的三种验证方式的不同(Input, 封装在Model里，FormRequest，还有 $this->throwValidationException(
                 $request, $validator
-            );)
+            );)并输出到knowledge
 2. 修改美特好项目的权限编辑页面 
-3. 美特好项目代码
-4. datartisan的analysis部分
+
 
 ### 2015-10-14 ###
 1. 看美特好项目文档和代码
