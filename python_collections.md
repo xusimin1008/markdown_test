@@ -6,6 +6,8 @@ A Counter is a dict subclass for counting hashable objects.
 
 It is an unordered collection where elements are stored as dictionary keys and their counts are stored as dictionary values. 
 
+说明对dict可以使用的方法对Counter也可以使用。
+
 初始化：
 
 counter = Counter([iterable-or-mapping]) 
