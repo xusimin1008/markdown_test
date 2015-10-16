@@ -53,6 +53,16 @@ counter = Counter([iterable-or-mapping])
 Counter({'a': 3, 'b': 0, 'c': -3, 'd': -6})
 ```
 
+** update([iterable-or-mapping]) **
+Like dict.update() but adds counts instead of replacing them. 
+
+_相当于add方法_
+```
+>>> c = Counter(a=4, b=2, c=0, d=-2)
+>>> d = Counter(a=1, b=2, c=3, d=4, e=-4)
+Counter({'a': 5, 'b': 4, 'c': 3, 'd': 2, 'e': -4})
+```
+
 Several mathematical operations are provided for combining Counter objects to produce multisets 
 
 (counters that have counts greater than zero). 
