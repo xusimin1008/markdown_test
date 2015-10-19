@@ -13,8 +13,10 @@ _目前刚到公司，主要任务是学习_
 
 ### 2015-10-19 ###
 1. roclaws的爬虫日志保存
-   除了celery和scrpay自己本身的log,还有系统或根log,尝试[Python模块学习——logging](http://www.cnblogs.com/captain_jack/archive/2011/01/21/1941453.html)
- 试试：logging.basicConfig(level=logging.DEBUG) [python 的日志logging模块学习](http://www.cnblogs.com/dkblog/archive/2011/08/26/2155018.html)
+   除了celery和scrpay自己本身的log,还有系统或根log,
+   尝试[Python模块学习——logging](http://www.cnblogs.com/captain_jack/archive/2011/01/21/1941453.html)
+   试试：logging.basicConfig(level=logging.DEBUG) [python    的日志logging模块学习](http://www.cnblogs.com/dkblog/archive/2011/08/26/2155018.html)
+LOG_FORMATTER = 'scrapy.logformatter.LogFormatter'
 
 
 ### 2015-10-16 ###
