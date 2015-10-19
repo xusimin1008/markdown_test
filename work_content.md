@@ -7,6 +7,16 @@ _目前刚到公司，主要任务是学习_
 3. 学习之后要用到的东西，比如任务定时([Cron](https://zh.wikipedia.org/wiki/Cron))和异步抓取之类的
 1. 熟悉美特好项目
 
+### 2015-10-20 ###
+1. 继续研究roclaws的爬虫日志保存
+2. 爬虫舆情项目的整理，能够抓取第三季度的信息
+
+### 2015-10-19 ###
+1. roclaws的爬虫日志保存
+   除了celery和scrpay自己本身的log,还有系统或根log,尝试[Python模块学习——logging](http://www.cnblogs.com/captain_jack/archive/2011/01/21/1941453.html)
+ 试试：logging.basicConfig(level=logging.DEBUG) [python 的日志logging模块学习](http://www.cnblogs.com/dkblog/archive/2011/08/26/2155018.html)
+
+
 ### 2015-10-16 ###
 1. 继续修改美特好项目的权限编辑页面（郭鹏帮忙解决了线上测试不通过的问题，php版本不同）
 2. 看datartisan的analysis部分，思考项目代码组织
