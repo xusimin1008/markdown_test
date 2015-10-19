@@ -17,6 +17,9 @@ _目前刚到公司，主要任务是学习_
    尝试[Python模块学习——logging](http://www.cnblogs.com/captain_jack/archive/2011/01/21/1941453.html)
    试试：logging.basicConfig(level=logging.DEBUG) [python    的日志logging模块学习](http://www.cnblogs.com/dkblog/archive/2011/08/26/2155018.html)
 LOG_FORMATTER = 'scrapy.logformatter.LogFormatter'
+https://github.com/scrapy/scrapy/blob/75cd056223a5a8da87a361aee42a541afcf27553/scrapy/crawler.py
+https://github.com/scrapy/scrapy/blob/75cd056223a5a8da87a361aee42a541afcf27553/scrapy/logformatter.py
+https://github.com/scrapy/scrapy/blob/75cd056223a5a8da87a361aee42a541afcf27553/scrapy/settings/default_settings.py
 
 
 ### 2015-10-16 ###
