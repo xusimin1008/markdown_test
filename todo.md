@@ -61,6 +61,7 @@
 42. [服务器安装部署](https://github.com/huanghua581/laravel-getting-started/wiki/Ubuntu-14.04-%E4%B8%8A%E4%BD%BF%E7%94%A8-Nginx-%E9%83%A8%E7%BD%B2-Laravel)
 43. [Laravel 权限设计 -- Zizaco/entrust](https://github.com/Zizaco/entrust)
 44. [谷歌插件](http://www.zhihu.com/question/19594682)
+45. [python logging](https://docs.python.org/2/library/logging.html) [howto](https://docs.python.org/2/howto/logging.html)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
