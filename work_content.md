@@ -6,10 +6,18 @@ _目前刚到公司，主要任务是学习_
 2. git stash && git flower(结合sourcetree)
 3. 学习之后要用到的东西，比如任务定时([Cron](https://zh.wikipedia.org/wiki/Cron))和异步抓取之类的
 1. 熟悉美特好项目
-
+### 2015-10-21 ###
+1. 爬虫舆情项目的整理，能够抓取第三季度的信息
+2. 美特好项目用户权限编辑页面（加入门店）页面调整和加入过滤和写JS
 ### 2015-10-20 ###
 1. 继续研究roclaws的爬虫日志保存
-2. 爬虫舆情项目的整理，能够抓取第三季度的信息
+   All loggers are descendants of the root logger. Each logger passes log messages on to its parent.
+   The worker daemon starts a new process after each spider run.
+   Change your non-root loggers to set propagate to 0, 
+   (http://stackoverflow.com/questions/4566327/python-logger-logging-things-twice-to-console)
+    the logging module only knows about thread-safety; it uses a thread lock to serialize access to handlers, but that lock is not shared across processes (everything in the child process is a copy, and not the same object).
+   子进程和父进程是同一个进程吗？进程间如何通信？fork之后父子进程共享文件
+2. 美特好项目用户权限编辑页面（加入门店）完成基本页面展示
 
 ### 2015-10-19 ###
 1. roclaws的爬虫日志保存
