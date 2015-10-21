@@ -9,6 +9,24 @@ _目前刚到公司，主要任务是学习_
 
 ### 2015-10-22 ###
 1. 继续美特好项目用户权限编辑页面（加入门店）
+   每个permission的parent储存其所有的parents
+   假设部门的 parent存： 门店+导师团+团队
+   每次触发checkbox,就遍历所有的ibox-md，看里面有没有勾选上的，
+   checkbox.on('change', function(e){
+      var mendian = {};
+      _.each($('ibox-md'), function(e){
+         var checked_length = $(e).find('input[type=checkbox][name="permissions[]"]
+                              [data-system="mendian"]').length;
+         if(checked_length){
+            mendian[md_id] = md_name;
+         }
+      });
+      $('#selected-mendian').html('');
+      _.each(mendian, function(e){
+         $('#selected-mendian').append('<a href="#">'+ e +'</>');
+      });
+   });
+  
 2. 爬虫舆情项目的整理
 
 ### 2015-10-21 ###
