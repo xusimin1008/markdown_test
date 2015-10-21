@@ -7,11 +7,7 @@ _目前刚到公司，主要任务是学习_
 3. 学习之后要用到的东西，比如任务定时([Cron](https://zh.wikipedia.org/wiki/Cron))和异步抓取之类的
 1. 熟悉美特好项目
 
-### 2015-10-22 ###
-1. 继续美特好项目用户权限编辑页面（加入门店）
-   每个permission的parent储存其所有的parents
-   假设部门的 parent存： 门店+导师团+团队
-   每次触发checkbox,就遍历所有的ibox-md，看里面有没有勾选上的，
+```
    checkbox.on('change', function(e){
       var mendian = {};
       _.each($('ibox-md'), function(e){
@@ -26,7 +22,13 @@ _目前刚到公司，主要任务是学习_
          $('#selected-mendian').append('<a href="#">'+ e +'</>');
       });
    });
-  
+```
+
+### 2015-10-22 ###
+1. 继续美特好项目用户权限编辑页面（加入门店）
+   每个permission的parent储存其所有的parents
+   假设部门的 parent存： 门店+导师团+团队
+   每次触发checkbox,就遍历所有的ibox-md，看里面有没有勾选上的，代码大致如上
 2. 爬虫舆情项目的整理
 
 ### 2015-10-21 ###
