@@ -22,14 +22,17 @@ _目前刚到公司，主要任务是学习_
          $('#selected-mendian').append('<a href="#">'+ e +'</>');
       });
    });
+   查看所有的logger:
+   >>> import logging
+   >>> logging.Logger.manager.loggerDict
    门店部分可以采用更好的组织方式（根据其parent来区分）：
    [
       XXX门店 => [
          0 => Permission(XXX门店),
          XXX导师团 => [
             0 => Permission(XXX导师团),
-            XXX门店 => [
-               0 => Permission(XXX门店),
+            XXX团队 => [
+               0 => Permission(XXX团队),
                XXX部门 => Permission(XXX部门),
                YYY部门 => Permission(YYY部门),
                ...
@@ -39,6 +42,53 @@ _目前刚到公司，主要任务是学习_
          ...
       ]
    ]
+   $r = [];
+   $pp = $p->parent.split('-');
+   if($p->parent == ''){
+      if($p->name in $r){
+         $r[$p->name][0] = $p;
+      }else{
+         $r[$p->name] = [0 => $p];
+      }
+   }else if($pp.length == 1){
+      if($pp[0] in $r){
+         if($p->name in $r[$pp[0]]){
+            $r[$pp[0]][$p->name][0] = $p;
+         }else{
+            $r[$pp[0]] = [$p->name => [0 => $p]];
+         }
+      }else{
+         $r[$pp[0]] =  [$p->name => [0 => $p]];
+      }
+   }else if($pp.length == 2){
+      if($pp[0] in $r){
+         if($pp[1] in $r[$pp[0]]){
+            if($p->name in $r[$pp[1]]){
+               $r[$pp[0]][$pp[1]][$p->name][0] = $p;
+            }else{
+               $r[$pp[0]][$pp[1]][$p->name] = [0 => $p];
+            }
+         }else{
+            $r[$pp[0]][$pp[1]] = [$p->name => [0 => $p]];
+         }
+      }else{
+         $r[$pp[0]] =  [$pp[1] => [$p->name => [0 => $p]];
+      }
+   }else if($pp.length == 3){
+      if($pp[0] in $r){
+         if($pp[1] in $r[$pp[0]]){
+            if($pp[2] in $r[$pp[0]][$pp[1]]){
+               $r[$pp[0]][$pp[1]][$pp[2]][$p->name] = $p;
+            }else{
+               $r[$pp[0]][$pp[1]][$pp[2]] = [$p->name => $p];
+            }
+         }else{
+            $r[$pp[0]][$pp[1]] = [$pp[2] => [$p->name => $p]];
+         }
+      }else{
+         $r[$pp[0]] = [$pp[1] => [$pp[2] => [$p->name => $p]]];  //(验证这种写法是否可行)
+      }
+   }
 ```
 
 ### 2015-10-22 ###
