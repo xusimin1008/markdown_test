@@ -62,6 +62,7 @@
 43. [Laravel 权限设计 -- Zizaco/entrust](https://github.com/Zizaco/entrust)
 44. [谷歌插件](http://www.zhihu.com/question/19594682)
 45. [python logging](https://docs.python.org/2/library/logging.html) [howto](https://docs.python.org/2/howto/logging.html)
+46. [PHP-PSR](https://github.com/PizzaLiu/PHP-FIG)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
