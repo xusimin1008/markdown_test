@@ -1,8 +1,8 @@
-# 数析学院下问答路由设计 #
+# 问答路由设计 #
 ```
 全部问答： Route::get('ask', 'AskController@getIndex');
 课程下的问答： Route::get('ask/lesson/{lesson_id}/questions', 'AskController@getLessonQuestions');
-***
+---------------------
 某个问题：Route::get('ask/question/{quesiton_id}', 'AskController@getQuestion');
 
 新建课程无关问题：Route::get('ask/question/new', 'AskController@getQuestionNew');
@@ -13,7 +13,7 @@
 
 问题编辑：  Route::get('ask/question/{quesiton_id}/edit', 'AskController@getQuestionEdit');
 提交问题编辑：Route::get('ask/question/{quesiton_id}/edit', 'AskController@postQuestionEdit');
-***
+---------------------
 回答问题： Route::get('ask/question/{quesiton_id}/answer/new', 'AskController@getAnswerNew');
 提交回答问题： Route::post('ask/question/{quesiton_id}/answer/new', 'AskController@postAnswerNew');
 
