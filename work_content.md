@@ -6,7 +6,7 @@ _目前刚到公司，主要任务是学习_
 2. git stash && git flower(结合sourcetree)
 3. 学习之后要用到的东西，比如任务定时([Cron](https://zh.wikipedia.org/wiki/Cron))和异步抓取之类的
 1. 熟悉美特好项目
-2. vue.js boostrap-markdown.js webpack
+2. vue.js boostrap-markdown.js webpack ping++
 
 ### 2015-10-27 ###
 1. 继续了解 laravel-administrator
