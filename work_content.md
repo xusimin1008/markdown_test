@@ -6,12 +6,18 @@ _目前刚到公司，主要任务是学习_
 2. git stash && git flower(结合sourcetree)
 3. 学习之后要用到的东西，比如任务定时([Cron](https://zh.wikipedia.org/wiki/Cron))和异步抓取之类的
 1. 熟悉美特好项目
-2. vue.js boostrap-markdown.js webpack ping++
+2. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
+
+### 2015-10-28 ###
+1. 数析学院Model确定之后即可进行相应开发
 
 ### 2015-10-27 ###
 1. 继续了解 laravel-administrator
 2. 看数析学院的文档和代码（昨天给讲解了数据结构和实现思路）
-3. 支付相关
+3. 支付相关问答查看
+4. 问答相关的路由设计
+5. 对Laravel的打包css和js做一定了解
+6. 插件学习（boostrap-markdown, php-parsedown, nbconvert）
 
 ### 2015-10-26 ###
 1. 爬虫日志保存实现（临时性解决方案，未根本解决）
