@@ -9,7 +9,9 @@ _目前刚到公司，主要任务是学习_
 2. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 
 ### 2015-10-28 ###
-1. 数析学院Model确定之后即可进行相应开发
+1. 数析学院基础模块实现，如注册，订阅，反馈，
+2. 梳理代码逻辑，如找回密码
+3. 帮助修改美特好项目的代码
 
 ### 2015-10-27 ###
 1. 继续了解 laravel-administrator
