@@ -14,6 +14,8 @@
 6. Python论坛
 7. 数据挖掘导论
 8. Python Flask学习
+9. 代码大全2
+10. 重构
 
 ## 其他学习 ##
 1. [rsync](https://rsync.samba.org/)
