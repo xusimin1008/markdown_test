@@ -8,6 +8,10 @@ _目前刚到公司，主要任务是学习_
 1. 熟悉美特好项目
 2. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 
+### 2015-10-30 ###
+1. nbconvert template自定义
+2. datartery的单条语料分析
+
 ### 2015-10-29 ###
 1. 数析学院问答模块
 2. markdown tab功能
