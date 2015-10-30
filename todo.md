@@ -16,6 +16,7 @@
 8. Python Flask学习
 9. 代码大全2
 10. 重构
+11. 写个爬虫，比如说爬Dota2英雄技能到自己的本地进行展示
 
 ## 其他学习 ##
 1. [rsync](https://rsync.samba.org/)
