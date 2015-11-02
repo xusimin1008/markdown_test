@@ -67,6 +67,7 @@
 45. [python logging](https://docs.python.org/2/library/logging.html) [howto](https://docs.python.org/2/howto/logging.html)
 46. [PHP-PSR](https://github.com/PizzaLiu/PHP-FIG)
 47. [bountysource](https://www.bountysource.com/)
+48. [vue with ajax](http://stackoverflow.com/questions/32403423/vue-js-global-data-from-ajax-call)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
