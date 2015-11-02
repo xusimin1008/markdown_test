@@ -9,7 +9,8 @@ _目前刚到公司，主要任务是学习_
 2. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 
 ### 2015-11-02 ###
-1. datacademy的模块
+1. datacademy课程和问答的权限控制
+2. datacademy课程下的问答
 2. 美特好项目
 
 ### 2015-10-30 ###
