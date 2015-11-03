@@ -7,10 +7,13 @@ _目前刚到公司，主要任务是学习_
 3. 学习之后要用到的东西，比如任务定时([Cron](https://zh.wikipedia.org/wiki/Cron))和异步抓取之类的
 1. 熟悉美特好项目
 2. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
+vue-resource
 
 ### 2015-11-03 ###
-1. vue-resource
-2. 
+1. ipynb 转 html 脚本编写 （datacademy-lesson 库中）
+2. 忘记、重置密码相关逻辑实现
+3. 登录 （$next） 相关实现
+4. 后台管理 
 
 ### 2015-11-02 ###
 1. datacademy课程和问答的权限控制
