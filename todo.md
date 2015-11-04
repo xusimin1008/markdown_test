@@ -69,6 +69,7 @@
 47. [bountysource](https://www.bountysource.com/)
 48. [vue with ajax](http://stackoverflow.com/questions/32403423/vue-js-global-data-from-ajax-call)
 49. [php-mailgun](https://github.com/mailgun/mailgun-php)
+50. [vue 作者](http://evanyou.me/)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
