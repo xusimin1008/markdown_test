@@ -8,10 +8,11 @@ _目前刚到公司，主要任务是学习_
 1. 熟悉美特好项目
 2. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource
+
 ### 2015-11-04 ###
 1. 待学习列表逻辑
 2. 加入课程逻辑
-3. 
+3. 课程请求逻辑
 
 ### 2015-11-03 ###
 1. ipynb 转 html 脚本编写 （datacademy-lesson 库中）
