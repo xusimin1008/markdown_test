@@ -30,6 +30,9 @@ vue-resource
    vm.$delete( key )
    只能删除 Vue instance（及它的 $data）的根属性。
    
+   可以通过下面的方式进行删除:
+   Vue.delete(data.attrs, c);
+   
 ```
 ### 2015-11-05 ###
 1. 使用Vue进行后台搭建
