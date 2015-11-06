@@ -71,6 +71,7 @@
 48. [vue with ajax](http://stackoverflow.com/questions/32403423/vue-js-global-data-from-ajax-call)
 49. [php-mailgun](https://github.com/mailgun/mailgun-php)
 50. [vue 作者](http://evanyou.me/)
+51. [python china](http://python-china.org/) -- 学习
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
