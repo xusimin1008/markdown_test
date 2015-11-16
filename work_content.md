@@ -9,6 +9,18 @@ _目前刚到公司，主要任务是学习_
 2. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource
 
+### 2015-11-16 ###
+1. 抓取亚马逊项目资源管理的增删改查， 包括代理，任务，种类
+
+***
+
+### 2015-11-13 ###
+1. 抓取亚马逊项目创建Model和数据库迁移
+2. 编写proxy的展示页
+
+### 2015-11-12 ###
+1. 抓取亚马逊项目的scrapy编写
+
 ### 2015-11-11 ###
 1. 亚马逊网站研究
 2. 数析学院试用，汇总问题
