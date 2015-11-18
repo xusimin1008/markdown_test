@@ -9,6 +9,11 @@ _目前刚到公司，主要任务是学习_
 2. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource
 
+### 2015-11-18 ###
+1. 把需要的商品种类格式化，方便写入数据库
+2. 进行商品排名的抓取
+3. 进行商品详情页的部分抓取
+
 ### 2015-11-17 ###
 1. 主站微信端合作需求页面调整
 2. 数析学院问题修正，404，503页面编写
