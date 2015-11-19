@@ -9,6 +9,10 @@ _目前刚到公司，主要任务是学习_
 2. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource
 
+### 2015-11-19 ###
+1. 抓取方法的编写
+2. 建立模型和数据库迁移
+
 ### 2015-11-18 ###
 1. 把需要的商品种类格式化，方便写入数据库
 2. 进行商品排名的抓取
