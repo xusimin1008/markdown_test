@@ -30,3 +30,5 @@
 15. [curl](http://www.ruanyifeng.com/blog/2011/09/curl.html)
 
 16. [_郭鹏_ 博客](http://ieqi.net/)
+
+17. [黑·白](http://blog.xiayf.cn/) 
