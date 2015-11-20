@@ -9,6 +9,8 @@ _目前刚到公司，主要任务是学习_
 2. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource
 
+pic_url 还不太行
+
 ### 2015-11-20 ###
 1. 抓取方法的编写，商品同时浏览，购买，购买最多
 2. 抓取函数的特殊情况处理
