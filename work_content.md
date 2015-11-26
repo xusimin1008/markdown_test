@@ -7,7 +7,7 @@ _目前刚到公司，主要任务是学习_
 3. 学习之后要用到的东西，比如任务定时([Cron](https://zh.wikipedia.org/wiki/Cron))和异步抓取之类的
 1. 熟悉美特好项目
 2. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
-vue-resource
+vue-resource 数析学院： 还可以有系统通知和@功能
 
 ### 2015-11-26 ###
 1. 爬虫试运行
