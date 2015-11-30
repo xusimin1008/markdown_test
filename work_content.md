@@ -9,6 +9,12 @@ _目前刚到公司，主要任务是学习_
 2. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+### 2015-11-30 ###
+1. 修改熟悉学院通知代码
+2. 开始舆情分析项目，包括登录模块，
+3. 
+
+***
 ### 2015-11-27 ###
 1. 美特好后台修改 
 2. 数析学院修改，页面按钮增加loading样式，给用户和课程新增exp字段以及相应的后台修改
