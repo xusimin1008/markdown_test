@@ -9,11 +9,13 @@ _目前刚到公司，主要任务是学习_
 2. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+### 2015-12-04 ###
+1. ES学习
+
 ### 2015-12-03 ###
 1. 听郭鹏讲解整体思路
 2. 根据新需求调整舆情项目
-3. 继续爬虫编写
-4. ES学习
+3. 针对百度新闻的爬虫编写
 
 ### 2015-12-02 ###
 1. 修改舆情项目页面
