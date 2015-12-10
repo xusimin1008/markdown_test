@@ -9,6 +9,10 @@ _目前刚到公司，主要任务是学习_
 2. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+### 2015-12-10 ###
+1. 数析学院，修改课程详情页侧边栏滚动固定问题，增加后台查看课程完成人数排行，订阅查看
+2. 
+
 ### 2015-12-09 ###
 1. php 端任务调用，某一课题的抓取和重建索引的命令
 2. 舆情项目功能完善，增加任务详情查看，增加前端任务调用和测试爬虫的编写，增加语料修改逻辑
