@@ -56,7 +56,5 @@ hello
 
 php 时间转化
 ```
-$old_date = date('l, F d y h:i:s');              // returns Saturday, January 30 10 02:06:34
-$old_date_timestamp = strtotime($old_date);
-$new_date = date('Y-m-d H:i:s', $old_date_timestamp); 
+$new_date_format = date('Y-m-d H:i:s', strtotime('2008-07-01T22:35:17.02'));
 ```
