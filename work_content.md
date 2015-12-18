@@ -9,7 +9,12 @@ _目前刚到公司，主要任务是学习_
 2. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
-### 2015-12-16 ###
+### 2015-12-17 ###
+1. 旅游舆情分页调整
+2. 查看原先亚马逊抓取错误，并修正
+3. ES聚合学习
+
+### 2015-12-17 ###
 1. 旅游舆情调整
 2. 亚马逊admin相应调整
 
