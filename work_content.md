@@ -9,6 +9,14 @@ _目前刚到公司，主要任务是学习_
 2. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+### 2015-12-29 ###
+1. 政府信息爬虫抓取检查
+2. 
+
+### 2015-12-28 ###
+1. 政府信息爬虫抓取
+
+***
 ### 2015-12-25 ###
 1. 亚马逊增加失败任务舍弃
 2. 测试亚马逊长尾关键词搜索功能（初版）
