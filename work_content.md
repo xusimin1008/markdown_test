@@ -9,6 +9,15 @@ _目前刚到公司，主要任务是学习_
 2. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+### 2016-01-06 ###
+1. 商品和评论的建立索引
+2. 
+
+### 2016-01-05 ###
+1. 调整亚马逊相关工具页面，跑通超链接生成
+2. 构建亚马逊dashboard内部页面
+3. 商品和评论的建立索引（明天试运行）
+
 ### 2016-01-04 ###
 1. 成本计算器初版
 2. 
