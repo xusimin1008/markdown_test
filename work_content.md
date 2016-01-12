@@ -9,8 +9,14 @@ _目前刚到公司，主要任务是学习_
 2. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+### 2016-01-13 ###
+1. dashboard构建商品管理页面的测试
+2. 首页的构建
+3. 小工具加入地区逻辑
+
 ### 2016-01-12 ###
 1. 继续dashboard构建商品管理页面
+2. 首页的构建
 
 ### 2016-01-11 ###
 1. dashboard构建商品管理页面
