@@ -9,6 +9,15 @@ _目前刚到公司，主要任务是学习_
 2. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+### 2016-01-21 ###
+1. 修改页面中的v-clock
+2. 关键词展示方式
+
+### 2016-01-20 ###
+1. 修改dashboard上线后遇到的问题
+2. 修改dashboard首页内容
+3. 关键词词频结果图表展示
+
 ### 2016-01-19 ###
 1. 继续 dashboard商品详情页图表展示
 2. 添加商品详情页取消商品关注和修改页面顶部面包屑内容
