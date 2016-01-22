@@ -11,8 +11,10 @@ vue-resource 数析学院： 还可以有系统通知和@功能
 关键词展示方式
 
 ### 2016-01-22 ###
-1. 修改页面中的v-clock
-2. 数据库字段调整（product, user）
+1. dashboard修改页面中的v-clock
+2. dashboard数据库字段调整（product, user）
+3. dashboard商品增加是否抓取评论限制
+4. dashboard增加竞品情报模块
 
 ### 2016-01-21 ###
 1. 用户设置修改
