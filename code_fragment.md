@@ -70,7 +70,7 @@ leecode 问题
             p = s[k]
             r = - (n + p)
             temp = (n, p, r)
-            if r in s[k + 1:] and not temp in result:
+            if r in s[k + 1:] and temp not in result:
                result.append(temp)
 
     print result
