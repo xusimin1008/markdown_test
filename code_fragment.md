@@ -62,7 +62,7 @@ $new_date_format = date('Y-m-d H:i:s', strtotime('2008-07-01T22:35:17.02'));
 leecode 问题
 [3sum](https://leetcode.com/problems/3sum/)
 ```
-S = [-1, 0, 1, 2, -1, -4]
+    S = [-1, 0, 1, 2, -1, -4]
     s = sorted(S)
     result = []
     for i, n in enumerate(s):
