@@ -9,9 +9,12 @@ _目前刚到公司，主要任务是学习_
 2. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 关键词展示方式
+
 ### 2016-02-15 ###
 1. 首页文章加入缓存
 2. dashboard内页面调整
+3. 百度搜索关键词调研
+4. dashboard首页文案修改
 
 ***
 ### 2016-02-04 ###
