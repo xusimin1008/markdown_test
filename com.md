@@ -1,4 +1,4 @@
-### Cron expression syntax check (excluding special operators except for * and /)
+### Cron正则表达式检查
 ```
 <?php
 $cron = "*/5 * * * * *";
