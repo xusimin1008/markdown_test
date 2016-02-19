@@ -1,3 +1,8 @@
+###laravel学习
+```
+php composer.phar dumpautoload  (数据库重建时，某些表出现错误)
+```
+
 ### tornado学习
 > 想了解框架和学习一下消息推送
 
