@@ -3,6 +3,10 @@
 
 > 豆瓣电影top 250
 
+### pg数据库语句
+```
+update products set review_url = replace(review_url, 'helpful', 'recent&pageNumber=1'); (替换字符串)
+```
 
 ###laravel学习
 ```
