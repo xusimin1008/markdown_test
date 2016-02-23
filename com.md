@@ -7,6 +7,7 @@
 ```
 存储路径（对象存储）：Amz{region(Us, Cn, Uk)}/{year}/{month}/{date}/{asin}.{format(html, xml)}.gz
 抓取来源：按各品类去抓取和用户自定义添加
+抓取时间间隔：固定（假设每3，5抓取一次商品排行榜和商品快照）
 ```
 
 ### amazon category 研究
