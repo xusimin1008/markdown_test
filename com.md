@@ -3,6 +3,12 @@
 
 > 豆瓣电影top 250
 
+### amazon category 研究
+```
+Clothing下的Women的Shorts的node_id为：1048186, 在Men下的node_id 为：1045560
+说明 -- 具有相同名称的子品类在不同较大品类下中的node_id也是不同的。
+```
+
 ### vue相关
 ```
 v-cloak 不显示元素知道编译完成
