@@ -8,6 +8,15 @@
 Clothing下的Women的Shorts的node_id为：1048186, 在Men下的node_id 为：1045560
 说明 -- 具有相同名称的子品类在不同较大品类下中的node_id也是不同的。
 ```
+存储结构
+```
+id, dept_code, parent_id, node_id, name,
+best_sellers_url, crawled_best_sellers_at,
+hot_new_releases_url, crawled_hot_new_releases_at
+movers_and_shakers_url, crawled_movers_and_shakers_at
+most_wished_for_url, crawled_most_wished_for_at
+most_gifted_url, crawled_most_gifted_at
+```
 
 ### vue相关
 ```
