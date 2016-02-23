@@ -3,6 +3,12 @@
 
 > 豆瓣电影top 250
 
+### amazon爬虫
+```
+存储路径（对象存储）：Amz{region(Us, Cn, Uk)}/{year}/{month}/{date}/{asin}.{format(html, xml)}.gz
+抓取来源：按各品类去抓取和用户自定义添加
+```
+
 ### amazon category 研究
 ```
 Clothing下的Women的Shorts的node_id为：1048186, 在Men下的node_id 为：1045560
