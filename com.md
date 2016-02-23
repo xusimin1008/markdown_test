@@ -13,6 +13,9 @@
 ```
 Clothing下的Women的Shorts的node_id为：1048186, 在Men下的node_id 为：1045560
 说明 -- 具有相同名称的子品类在不同较大品类下中的node_id也是不同的。
+---
+在四个排行榜下的品类展示都是一样的，除了movers and shakers只展示最高品类，
+所以要想抓取所有的品类，只需抓取某一个，如best sellers下的品类。
 ```
 存储结构
 ```
