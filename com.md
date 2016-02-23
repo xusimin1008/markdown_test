@@ -3,6 +3,10 @@
 
 > 豆瓣电影top 250
 
+### vue相关
+```
+v-cloak 不显示元素知道编译完成
+```
 ### pg数据库语句
 ```
 update products set review_url = replace(review_url, 'helpful', 'recent&pageNumber=1'); (替换字符串)
