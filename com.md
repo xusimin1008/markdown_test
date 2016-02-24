@@ -35,6 +35,8 @@ most_gifted_url, crawled_most_gifted_at
 ### vue相关
 ```
 v-cloak 不显示元素知道编译完成
+v-text 显示元素内容 <span v-text="msg"></span> == <span>{{msg}}</span> （不过后者在元素未编译完成时会显示{{msg}}，建议使用前者）
+
 ```
 ### pg数据库语句
 ```
