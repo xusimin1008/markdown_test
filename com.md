@@ -18,6 +18,12 @@ cd Library/Application\ Support/Google/Chrome/Default/Extensions
 
 抓取时间间隔：固定（假设每3，5或者7天抓取一次商品排行榜和商品快照）
 -- 现在的抓取时间间隔只能保证是我们想要的间隔，但并不能保证在我们想要的时间内，即如果出现这样的异常作何处理？
+
+面对不同结构的页面，应该把所有情况都尝试一遍，比如，detail = ''
+if (!detail) { ... }
+if (!detail) { ... }
+...
+
 ```
 
 ### amazon category 研究
