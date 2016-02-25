@@ -3,6 +3,12 @@
 
 > 豆瓣电影top 250
 
+### 查看谷歌扩展的代码
+```
+cd Library/Application\ Support/Google/Chrome/Default/Extensions
+在谷歌扩展程序中 开启 开发者模式 得到扩展id
+到上面的目录找到id对应的目录，里面即为源码
+```
 ### amazon爬虫
 ```
 存储路径（对象存储）：Amz{region(Us, Cn, Uk)}/{year}/{month}/{date}/{asin}.{format(html, xml)}.gz
