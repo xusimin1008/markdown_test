@@ -3,6 +3,13 @@
 
 > 豆瓣电影top 250
 
+### 克隆代码库
+1. git clone 主代码库链接
+2. git checkout -b develop origin/develop
+3. 添加remotes:
+	1. 添加origin: 自己的fork代码库链接
+	2. 添加main: 主库的代码库链接
+
 ### 查看谷歌扩展的代码
 ```
 cd Library/Application\ Support/Google/Chrome/Default/Extensions
