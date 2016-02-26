@@ -9,6 +9,8 @@
 3. 添加remotes:
 	1. 添加origin: 自己的fork代码库链接
 	2. 添加main: 主库的代码库链接
+### npm
+1. npm install vue-resource --save
 
 ### 查看谷歌扩展的代码
 ```
