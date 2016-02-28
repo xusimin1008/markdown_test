@@ -54,6 +54,15 @@ most_wished_for_url, crawled_most_wished_for_at
 most_gifted_url, crawled_most_gifted_at
 ```
 
+### vue router相关
+```
+把路由映射到各个组件
+嵌套路由可以进行嵌套组件
+如果一个子路径和一个父路径有相同的字段，则子路径的值会覆盖父路径的值
+动态片段 /user/:username 显示可从$router.params.username得到
+全匹配片段（动态片段贪心版） /user/*any 可以匹配/user/a/b/c 显示可从$router.params.any得到
+```
+
 ### vue相关
 ```
 v-cloak 不显示元素知道编译完成
