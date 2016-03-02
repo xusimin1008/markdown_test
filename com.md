@@ -3,6 +3,16 @@
 
 > 豆瓣电影top 250
 
+### tmux 相关(一切以Ctrl + B开始)
+```
+% 左右分屏
+```
+
+### sublime 相关
+```
+Command + , 打开设置
+```
+
 ### 克隆代码库
 1. git clone 主代码库链接
 2. git checkout -b develop origin/develop
