@@ -3,6 +3,11 @@
 
 > 豆瓣电影top 250
 
+### elasticsearch 相关
+```
+sudo service elasticsearch start
+```
+
 ### tmux 相关(一切以Ctrl + B开始)
 ```
 % 左右分屏
