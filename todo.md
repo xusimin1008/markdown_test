@@ -76,6 +76,7 @@
 53. [tornado文档](http://www.tornadoweb.org/en/stable/)
 54. [phonegap](http://docs.phonegap.com/getting-started/1-install-phonegap/desktop/)
 55. [readthedocs](https://readthedocs.org/)
+56. [python-china](http://python-china.org/)
 
 ## 文学学习 ##
 1. [中庸 ](http://ctext.org/liji/zhong-yong/zhs)
