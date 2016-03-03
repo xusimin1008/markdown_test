@@ -5,7 +5,7 @@
 
 ### elasticsearch 相关
 ```
-sudo service elasticsearch start
+sudo service elasticsearch start （启动服务）
 ```
 
 ### tmux 相关(一切以Ctrl + B开始)
