@@ -11,6 +11,7 @@ sudo service elasticsearch start （启动服务）
 ### tmux 相关(一切以Ctrl + B开始)
 ```
 % 左右分屏
+" 上下分屏
 ```
 
 ### sublime 相关
