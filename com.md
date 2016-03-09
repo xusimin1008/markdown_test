@@ -3,6 +3,31 @@
 
 > 豆瓣电影top 250
 
+### 青云对象存储使用相关
+```
+>>> import qingcloud.qingstor
+#建立连接
+>>> conn = qingcloud.qingstor.connect(
+        'pek3a.qingstor.com',
+        'access key id',
+        'secret access key'
+    ) 
+    
+# 创建存储空间    
+>>> bucket = conn.create_bucket('mybucket') 
+
+# 创建对象（创建完对象后需要进行send_file，才会建立对应的对象）
+>>> key = bucket.new_key('myobject')
+>>> with open('/tmp/myfile') as f:
+>>>     key.send_file(f)
+
+# 删除对象
+>>> bucket.delete_key('myobject')
+
+使用bucket进行检索
+def list(self, prefix=None, delimiter=None, marker=None, limit=None):
+```
+
 ### javascript 相关
 ```
 in --- 键在对象中 或 索引在数组中
