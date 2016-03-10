@@ -3,6 +3,16 @@
 
 > 豆瓣电影top 250
 
+### 创建新项目
+```
+主机环境下
+$ cd /etc
+$ subl hosts
+$ cd ~/.homestead 
+$ subl Homestead.yaml
+$ vagrant provision (vagrant目录下)
+```
+
 ### 青云对象存储使用相关
 ```
 >>> import qingcloud.qingstor
