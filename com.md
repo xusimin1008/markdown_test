@@ -3,6 +3,11 @@
 
 > 豆瓣电影top 250
 
+```
+import path
+def hello():
+  pass
+```
 ### 创建laravel项目时，端口映射
 ```
 主机环境下
