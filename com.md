@@ -3,7 +3,7 @@
 
 > 豆瓣电影top 250
 
-```
+```python
 import path
 def hello():
   pass
