@@ -8,6 +8,11 @@ import path
 def hello():
   pass
 ```
+
+```
+sudo service nginx restart
+sudo service php5-fpm restart
+```
 ### 创建laravel项目时，端口映射
 ```
 主机环境下
