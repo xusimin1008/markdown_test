@@ -14,7 +14,7 @@ sudo service nginx restart
 sudo service php5-fpm restart
 ```
 ### 创建laravel项目时，端口映射
-```
+```shell
 主机环境下
 $ cd /etc
 $ subl hosts
@@ -24,7 +24,7 @@ $ vagrant provision (vagrant目录下)
 ```
 
 ### 青云对象存储使用相关
-```
+```python
 >>> import qingcloud.qingstor
 #建立连接
 >>> conn = qingcloud.qingstor.connect(
