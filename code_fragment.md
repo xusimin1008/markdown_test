@@ -5,6 +5,10 @@ night_and_leslie@163.com
 ```
 
 ```
+要获得商品的dept_ids，统一由解析adapi得到的product_group映射得到的dept(自定义的25个类)，
+```
+
+```
 虚拟机内的所有服务，如果需要外网可以访问，需要修改其配置中的host为0.0.0.0
 ```
 
