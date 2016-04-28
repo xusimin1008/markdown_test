@@ -5,6 +5,14 @@ night_and_leslie@163.com
 ```
 
 ```
+php mongo install
+sudo apt-get install php5-mongodb
+sudo apt-get install php5-mongo
+php -i | grep mongo
+sudo service php5-fpm restart
+```
+
+```
 要获得商品的dept_ids，统一由解析adapi得到的product_group映射得到的dept(自定义的25个类)，
 ```
 
