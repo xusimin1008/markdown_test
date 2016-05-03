@@ -5,6 +5,10 @@ night_and_leslie@163.com
 ```
 
 ```
+vue中{{{ html }}} 可escape html
+```
+
+```
 php mongo install
 sudo apt-get install php5-mongodb
 sudo apt-get install php5-mongo
