@@ -1,3 +1,92 @@
+### datartery-amazon-v3 command
+```php
+<?php
+
+namespace App\Console\Commands;
+
+use App;
+use Log;
+use DB;
+use Illuminate\Console\Command;
+use Carbon\Carbon;
+
+class ApplyUsSimpleProductTasks extends Command
+{
+    /**
+     * The name and signature of the console command.
+     *
+     * @var string
+     */
+    protected $signature = 'apply:us-simple-product';
+
+    /**
+     * The console command description.
+     *
+     * @var string
+     */
+    protected $description = 'Apply Us Simple Product Tasks';
+
+    /**
+     * Create a new command instance.
+     *
+     * @return void
+     */
+    public function __construct()
+    {
+        parent::__construct();
+    }
+
+    /**
+     * Execute the console command.
+     *
+     * @return mixed
+     */
+    public function handle()
+    {
+        // Log::info('Run Us Simple Product Tasks...');
+        $this->comment('Run Us Simple Product Tasks...');
+
+        $tableName = 'us_simple_product';
+        $table = DB::table($tableName);
+        // $table->dateTime('last_snapped_at');
+        $simpleProducts = $table->where('last_snapped_at', '<', Carbon::now())
+                                ->orWhereNull
+                                               ->orderBy('last_snapped_at')
+                                               ->get();
+
+        $this->comment('Simple Product Count: '. count($simpleProducts));
+
+        return;
+
+        $worker = 'crawler-celery';
+        $taskName = 'dispatcher.tasks.us_simple_product.crawl_us_simple_product';
+        $celery = App::make($worker);
+
+        foreach ($simpleProducts as $simpleProduct) {
+            $kwargs = [
+                'product_id' => $simpleProduct->id,
+            ];
+
+            $celery->taskAsyncApply($taskName, $kwargs);
+
+            $lastSnappedAt = NULL;
+            if (!$simpleProduct->last_snapped_at || $simpleProduct->last_snapped_at == '1970-01-01 00:00:00') {
+                $lastSnappedAt = Carbon::now()->addDays(1);
+            } else {
+                $lastSnappedAt = Carbon::parse($simpleProduct->last_snapped_at)->addDays(1);
+            }
+
+            DB::table($tableName)->where('id', $simpleProduct->id)
+                                 ->update(['last_snapped_at' => $lastSnappedAt]);
+
+            break;
+
+        }
+    }
+}
+
+```
+
 ### 数据积累
 > 股票
 
