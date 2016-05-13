@@ -37,3 +37,4 @@
 
 19. [跬步](http://bozpy.sinaapp.com/) 
 
+20. http://zhibimo.com/read/wang-miao/mastering-bitcoin/Preface.html
