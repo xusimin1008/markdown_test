@@ -5,6 +5,19 @@ night_and_leslie@163.com
 ```
 
 ```
+按enter不触发表单提交
+<form onsubmit="return false;">
+
+<script>
+var submitHandler = function() {
+  // do stuff
+  return false;
+}
+</script>
+<form onsubmit="return submitHandler()">
+```
+
+```
 vue中{{{ html }}} 可escape html
 ```
 
