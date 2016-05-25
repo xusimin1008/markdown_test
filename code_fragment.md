@@ -5,6 +5,12 @@ night_and_leslie@163.com
 ```
 
 ```
+scrapy:
+Extensions里面的spider_error只会记录spider的错误，并不会记录pipeline内的错误
+DownloaderMiddleware中如果请求为重定向时，重定向后的request会把meta都丢失
+```
+
+```
 按enter不触发表单提交
 <form onsubmit="return false;">
 
