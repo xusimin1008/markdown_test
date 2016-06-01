@@ -4,6 +4,23 @@ night10081503@163.com
 night_and_leslie@163.com
 ```
 
+```php
+laravel中使用firstOrCreate
+$product = [
+    "id" => "B01D4QUZ4C",
+    "parent_product_id" => "B01DVK6BEY",
+    "image" => "http://ecx.images-amazon.com/images/I/41E8j-shIFL.jpg",
+    "title" => "TaoTronics LED Light Bulbs, A19 LED Bulbs - 6 Pack (60 Watt Equivalent, Daylight White 5000K)",
+    "brand" => "TaoTronics",
+    "attributes" => [
+      "color" => "Daylight white",
+    ],
+];
+
+SpyProduct::firstOrCreate($product);
+如果有属性是数组类型，则不能使用firstOrCreate
+```
+
 ```
 scrapy:
 Extensions里面的spider_error只会记录spider的错误，并不会记录pipeline内的错误
