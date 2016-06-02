@@ -7,6 +7,13 @@
 4. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+### 2016-06-02
+1. 调整手机验证码生成逻辑
+2. 调整商品变体api，父体的图片为第一个子体的图片
+3. 接入fba费用到索引中
+4. 修改用户注册邮件内容及页面调整
+5. 用户加入默认的商品
+
 ### 2016-06-01
 1. keyword_digging添加计数逻辑
 2. 添加重新更新用户的套餐内容以及重新计算用户用量的命令
