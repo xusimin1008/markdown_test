@@ -7,6 +7,12 @@
 4. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+###2016-06-03
+1. 添加注册的时候检查手机是否已被使用的逻辑
+2. 爬虫中添加新的product group存储 和  后台添加对product group的展示
+3. 修改竞品爬虫和修改爬虫队列名称
+4. 任务列表处理
+
 ### 2016-06-02
 1. 调整手机验证码生成逻辑
 2. 调整商品变体api，父体的图片为第一个子体的图片
