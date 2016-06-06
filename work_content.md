@@ -7,7 +7,21 @@
 4. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
-###2016-06-03
+### 2016-06-07
+1. 竞品详情页
+2. 爬虫修改
+3. 套餐流程修改
+
+### 2016-06-06
+1. 讨论黑马商品命令的过程
+2. 讨论开通套餐及修改的过程
+3. 和郭鹏测试线上的支付流程
+4. 市场数据页按照翔宇提出的修改
+5. 其他页面的修改
+6. 确认添加的字段 product_group和deletd_at
+
+***
+### 2016-06-03
 1. 添加注册的时候检查手机是否已被使用的逻辑
 2. 爬虫中添加新的product group存储 和  后台添加对product group的展示
 3. 修改竞品爬虫和修改爬虫队列名称
