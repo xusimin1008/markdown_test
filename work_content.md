@@ -7,10 +7,15 @@
 4. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+### 106-06-08
+1. simple_product和spy_product爬虫的修改和测试
+2. 修改spy_product相关的后台逻辑
+3. 路由修改的确认
+
 ### 2016-06-07
 1. 竞品详情页
-2. 爬虫修改
-3. 套餐流程修改
+2. 爬虫修改，增加删除商品的逻辑和增加对其他字段的解析
+3. 梳理商品的id和parent_product_id的关系
 
 ### 2016-06-06
 1. 讨论黑马商品命令的过程
