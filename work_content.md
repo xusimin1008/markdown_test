@@ -7,6 +7,10 @@
 4. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+### 2016-06-13
+1. 黑马商品功能实现
+2. my-product相关功能完善和测试
+
 ### 2016-06-12
 1. 查看错误任务，进行爬虫修改（对于机器人页面的重试和对第一条评论的抓取机制的调整）
 2. 添加清理mongo数据的命令
@@ -14,6 +18,7 @@ vue-resource 数析学院： 还可以有系统通知和@功能
 4. 后台任务添加搜索和删除
 5. 对于未存在于数据库中的product group的存储与asin的快照
 6. simple product的dept_id的确定来源于product group
+7. 修改套餐开通页面
 
 ***
 ### 2016-06-08
