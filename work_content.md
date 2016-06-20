@@ -7,6 +7,16 @@
 4. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+### 2016-07-20
+1. simple_product加入node_ids逻辑
+2. growing_bs的逻辑调整
+
+***
+### 2016-06-17
+1. 修改竞品详情页后台数据组织逻辑
+2. 修改竞品详情页
+3. 修改后台对于product group的编辑
+
 ### 2016-06-16
 1. 关键词商机爬虫完善（加入对各指标的计算）
 2. 关键词商机两个页面的完善
