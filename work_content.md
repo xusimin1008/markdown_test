@@ -7,6 +7,9 @@
 4. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+### 2016-06-22
+1. 修改热门商品页数据获取的方式 
+
 ### 2016-06-21
 1. 完成黑马商品的爬虫
 2. 抽离黑马商品的后台api
