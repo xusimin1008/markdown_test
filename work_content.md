@@ -7,6 +7,11 @@
 4. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+### 2016-06-23
+1. 修复线上注册用户默认添加竞品出现的错误
+2. 竞品页添加竞品显示添加变体数和剩余变体数
+3. 解决竞品bsr有的不能查看的问题
+
 ### 2016-06-22
 1. 修改热门商品页数据获取的方式 
 2. 黑马商品页面加入套餐检查逻辑和重构用户对套餐检查的方法
