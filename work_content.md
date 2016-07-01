@@ -7,8 +7,10 @@
 4. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+***
 ### 2016-07-01
-1. 用户登录情况考虑
+1. 关键词排名总览图改用highchart实现
+2. 我的商品相关页面调整
 
 ### 2016-06-30
 1. 关键词排名的总览图实现
