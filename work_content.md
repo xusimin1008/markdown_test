@@ -7,6 +7,10 @@
 4. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+### 2016-07-05
+1. 黑马商品爬虫调整，加入dept_id和fba_fee
+2. 漏水检测系统原型图构建，部分页面可用
+
 ### 2016-07-04
 1. 黑马商品爬虫调整（使之能够抓取商品详细信息）
 2. 关键词商机爬虫调整（增加fba费用计算）
