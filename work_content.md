@@ -7,6 +7,12 @@
 4. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+### 2016-07-07
+1. 用户注册的邮箱验证问题
+2. 我的商品爬虫和关键词商机爬虫修改（关键词空格转换）
+3. 套餐计数重置命令的完善
+4. 修改用户黑马商品和我的商品关键词的默认添加逻辑
+
 ### 2016-07-06
 1. 我的商品和黑马商品用户注册初始化
 2. 漏水系统用户状态跳转方面的调整
