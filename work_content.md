@@ -7,6 +7,12 @@
 4. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+### 2016-07-08
+1. 添加商品品类树更新爬虫
+2. 修改我的商品关键词爬虫（有些关键词下存在的结果页太多）
+3. 黑马商品品类切换和商品评论切换的问题
+4. 京东评论接口研究
+
 ### 2016-07-07
 1. 用户注册的邮箱验证问题
 2. 我的商品爬虫和关键词商机爬虫修改（关键词空格转换）
