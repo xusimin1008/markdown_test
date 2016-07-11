@@ -7,6 +7,13 @@
 4. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+### 2016-07-11
+1. 关键词商机和挖掘的错误显示
+2. 修改后台任务详情页
+3. 修改竞品详情页bsr图表展示
+4. 漏水检测系统的前端修改
+
+***
 ### 2016-07-08
 1. 添加商品品类树更新爬虫
 2. 修改我的商品关键词爬虫（有些关键词下存在的结果页太多）
