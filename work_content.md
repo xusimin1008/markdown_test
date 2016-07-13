@@ -7,6 +7,13 @@
 4. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+### 2016-07-13
+1. 商品列表解析
+2. 商品信息解析
+3. 商品快照解析
+4. 任务发送脚本命令编写
+5. 亚马逊修改
+
 ### 2016-07-12
 1. 漏水监测系统的前端修改
 2. 亚马逊的评论增量显示和资源可见性的时间间隔调整
