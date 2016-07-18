@@ -7,6 +7,12 @@
 4. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+### 2016-07-18
+1. 京东评论抓取调整
+2. 漏水检测系统页面修改
+3. 亚马逊订单模块调整
+
+***
 ### 2016-07-15
 1. 京东商品爬虫调整
 2. 京东评论抓取调整
