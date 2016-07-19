@@ -7,6 +7,11 @@
 4. vue.js boostrap-markdown.js webpack ping++ laravel-elixir， highlight [跨站请求伪造](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)
 vue-resource 数析学院： 还可以有系统通知和@功能
 
+> 评论可以按照属性，时间，是否购买进行聚合
+
+### 2016-07-19
+1. 黑马商品调整
+
 ### 2016-07-18
 1. 京东评论抓取调整
 2. 漏水检测系统页面修改
