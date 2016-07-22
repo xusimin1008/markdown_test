@@ -43,4 +43,4 @@
 
 22. https://github.com/shadowsocks/shadowsocks-iOS/releases
 
-23. 
+23. https://ss.gyteng.com/home/index
