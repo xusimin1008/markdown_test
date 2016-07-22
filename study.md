@@ -40,3 +40,7 @@
 20. http://zhibimo.com/read/wang-miao/mastering-bitcoin/Preface.html
 
 21. http://www.wklken.me/ 
+
+22. https://github.com/shadowsocks/shadowsocks-iOS/releases
+
+23. 
