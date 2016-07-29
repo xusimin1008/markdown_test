@@ -4,6 +4,11 @@ night10081503@163.com
 night_and_leslie@163.com
 ```
 
+```
+select * from (select g.dept_id, g.node_id, s.created_at from us_growing_bs as g LEFT JOIN us_growing_bs_snap as s
+ON g.dept_id=s.dept_id and g.node_id=s.node_id and g.next_snapped_at > '2016-07-27' and s.created_at > '2016-07-27') as t where t.created_at is null order by t.dept_id; 
+```
+
 ```php
 laravel中使用firstOrCreate
 $product = [
