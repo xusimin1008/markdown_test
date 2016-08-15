@@ -53,3 +53,5 @@
 
 27. http://ondras.zarovi.cz/sql/demo/
 
+28. https://pypi.python.org/pypi/tqdm
+
