@@ -100,5 +100,5 @@ redis-server /usr/local/etc/redis.conf
 ## 创建新的larvel项目 ##
 1. 使用命令：laravel new project_name
 	或者（推荐）composer create-project laravel/laravel test-laravel-5-project --prefer-dist 
-2. 修改homestead的site map （在.homestead下的Homestead.yaml(cd ~/.homestead)）
-3. 修改host里面的主机映射（在/etc下的hosts）
+2. 修改homestead的site map （在.homestead下的Homestead.yaml(主机下 cd ~/.homestead)）
+3. 修改host里面的主机映射（主机下 在/etc下的hosts）
