@@ -59,3 +59,6 @@
 
 30. http://xlambda.com/gevent-tutorial/#_14
 
+31. http://buyersguide.macrumors.com/#Mac
+
+32. http://www.macrumors.com/
